@@ -1,0 +1,2001 @@
+Location,Area,Bedrooms,Bathrooms,Age,Floor,Parking,Furnished,AmenitiesScore,Price
+Kukatpally,2294,4,4,25,18,0,Semi-Furnished,5,17028035
+Hitech City,1115,2,3,29,5,0,Furnished,1,9529709
+Dilsukhnagar,1654,3,3,9,15,1,Unfurnished,3,9183862
+Dilsukhnagar,1674,3,3,20,8,0,Furnished,2,9191471
+Secunderabad,705,1,1,11,7,0,Furnished,4,4835443
+Kokapet,2205,3,3,21,17,2,Furnished,4,16585973
+Uppal,1807,3,3,29,7,2,Semi-Furnished,5,9221776
+LB Nagar,964,2,3,23,10,1,Semi-Furnished,3,4545915
+Banjara Hills,1782,3,4,8,7,1,Unfurnished,7,16024769
+Kondapur,1635,3,4,4,14,1,Furnished,10,13048558
+Uppal,1570,3,3,12,18,0,Semi-Furnished,4,7231415
+Hitech City,2495,4,4,3,12,0,Unfurnished,6,21222287
+Jubilee Hills,1628,3,3,11,11,1,Furnished,10,14083589
+Kukatpally,1930,4,4,5,7,1,Semi-Furnished,1,12918653
+Financial District,1003,2,2,23,8,1,Unfurnished,10,8431485
+Shamshabad,948,2,3,23,16,1,Furnished,6,4849630
+Kondapur,1167,2,3,25,5,1,Semi-Furnished,8,9071385
+Narsingi,1931,3,3,10,15,2,Unfurnished,6,14694421
+Manikonda,300,1,1,6,19,2,Semi-Furnished,7,2490202
+Kokapet,2032,4,5,29,9,1,Semi-Furnished,10,14769678
+Manikonda,1585,3,3,11,4,2,Semi-Furnished,9,9290804
+Secunderabad,1223,2,3,10,16,1,Furnished,4,9753253
+Gachibowli,1621,3,4,2,15,2,Unfurnished,4,13008488
+Banjara Hills,1918,3,3,2,16,1,Semi-Furnished,3,16411127
+Uppal,1832,3,4,26,1,1,Semi-Furnished,1,7896483
+Kondapur,1395,2,2,16,11,2,Furnished,5,10317409
+Madhapur,1625,3,3,20,2,2,Unfurnished,5,14747216
+Banjara Hills,1242,2,2,25,2,1,Unfurnished,6,10546637
+Jubilee Hills,1276,2,2,8,10,1,Semi-Furnished,10,11283703
+Gachibowli,863,2,3,7,13,2,Furnished,7,8829840
+Kompally,1552,3,3,24,21,1,Unfurnished,4,8652698
+Begumpet,2212,4,4,20,11,2,Semi-Furnished,6,14523886
+LB Nagar,946,2,2,15,12,2,Semi-Furnished,3,4687824
+Narsingi,1478,3,3,25,20,0,Semi-Furnished,5,10737192
+Banjara Hills,1163,2,2,15,24,1,Unfurnished,7,9331789
+Kondapur,1503,3,3,4,21,0,Unfurnished,5,9896294
+Kompally,502,1,2,25,15,2,Semi-Furnished,5,3376337
+Begumpet,2200,4,5,23,4,1,Semi-Furnished,7,15988721
+Jubilee Hills,572,1,1,17,2,1,Semi-Furnished,3,5192442
+Ameerpet,2256,4,4,16,7,1,Semi-Furnished,2,12226658
+Financial District,1290,2,2,28,23,1,Furnished,9,12570532
+Hitech City,742,2,3,6,23,2,Semi-Furnished,1,6731507
+LB Nagar,1776,3,3,19,15,1,Unfurnished,3,6726423
+Narsingi,1017,2,3,27,13,1,Semi-Furnished,10,7652103
+Kompally,1324,2,2,20,3,2,Furnished,7,8774579
+LB Nagar,2264,4,5,10,17,2,Semi-Furnished,10,11932674
+Dilsukhnagar,1912,4,5,8,17,2,Unfurnished,5,11042340
+Madhapur,2980,5,5,6,24,1,Semi-Furnished,3,25686178
+Dilsukhnagar,1589,3,3,27,19,1,Unfurnished,9,8855375
+Kukatpally,1628,3,3,16,24,2,Unfurnished,6,11809952
+Dilsukhnagar,2696,5,5,20,10,2,Unfurnished,3,15005124
+Shamshabad,959,2,2,0,20,1,Semi-Furnished,7,4784945
+Ameerpet,1077,2,3,27,20,1,Unfurnished,10,6441873
+Miyapur,1267,3,3,19,12,1,Unfurnished,3,7288541
+Madhapur,1935,4,5,23,17,1,Unfurnished,8,18928243
+Banjara Hills,2076,4,4,26,16,2,Semi-Furnished,3,19803417
+Banjara Hills,618,1,1,4,5,2,Semi-Furnished,5,6589790
+Kondapur,2052,4,4,0,18,1,Unfurnished,1,14019726
+Narsingi,1504,4,4,2,17,2,Semi-Furnished,5,11222411
+Narsingi,1229,2,2,1,10,1,Unfurnished,2,9418213
+Madhapur,1476,3,4,1,19,1,Semi-Furnished,7,13841326
+Begumpet,1859,4,5,23,4,2,Semi-Furnished,3,13034911
+Kompally,879,2,2,23,24,2,Semi-Furnished,2,5347831
+Financial District,386,1,1,20,5,1,Semi-Furnished,10,3490384
+Uppal,1629,3,3,24,14,1,Unfurnished,1,7004888
+Hitech City,2093,4,5,23,21,1,Furnished,8,18207206
+Jubilee Hills,1820,3,3,14,22,1,Semi-Furnished,2,15129097
+Madhapur,1498,3,3,9,6,1,Unfurnished,10,12264154
+Dilsukhnagar,664,2,2,8,12,1,Semi-Furnished,6,4231143
+Jubilee Hills,1248,3,3,4,5,2,Semi-Furnished,8,12452929
+LB Nagar,1058,2,3,29,10,0,Furnished,8,4227043
+Secunderabad,1154,2,2,5,1,1,Furnished,6,8570089
+Narsingi,1763,3,4,10,7,1,Furnished,5,13406814
+Madhapur,2878,5,6,11,14,1,Furnished,6,24529164
+Kondapur,1826,3,4,5,17,1,Semi-Furnished,10,11959067
+Dilsukhnagar,1577,2,3,2,16,2,Semi-Furnished,2,9011308
+Uppal,2098,4,5,0,7,1,Unfurnished,8,9198892
+Ameerpet,2136,4,4,4,18,1,Semi-Furnished,4,12307003
+LB Nagar,2004,3,4,18,5,1,Semi-Furnished,1,8636730
+Narsingi,2378,4,4,18,6,1,Furnished,7,16863196
+Financial District,1201,2,2,19,6,1,Furnished,9,11691374
+Banjara Hills,1579,3,4,1,9,1,Furnished,6,14346578
+Madhapur,2101,3,3,14,7,1,Unfurnished,2,17058051
+Financial District,1495,3,3,10,9,1,Unfurnished,7,12305285
+Kompally,1046,2,3,7,10,2,Semi-Furnished,4,6293597
+Kondapur,2250,4,5,25,8,1,Semi-Furnished,8,14570454
+Secunderabad,2707,4,4,20,14,0,Semi-Furnished,4,19056317
+Secunderabad,788,2,2,26,16,1,Unfurnished,3,4416151
+Kukatpally,1307,2,2,10,21,1,Unfurnished,1,8685719
+Kukatpally,2971,5,5,28,7,1,Semi-Furnished,7,20576464
+Financial District,985,2,3,12,15,1,Unfurnished,3,8506615
+Kompally,1537,3,3,18,3,1,Furnished,7,7106491
+Gachibowli,1427,3,3,22,22,1,Semi-Furnished,8,14137609
+Banjara Hills,1655,3,3,7,21,1,Semi-Furnished,3,13642910
+Banjara Hills,1899,3,4,15,3,2,Unfurnished,7,17095206
+Manikonda,1237,2,3,15,18,1,Semi-Furnished,2,7357856
+Banjara Hills,2059,4,4,22,22,1,Semi-Furnished,6,16681075
+Secunderabad,1844,3,3,16,17,0,Unfurnished,8,12662435
+Jubilee Hills,1684,3,3,3,12,1,Semi-Furnished,6,15077580
+Kokapet,1498,3,4,4,24,1,Semi-Furnished,5,11114764
+Begumpet,1282,2,2,1,11,1,Semi-Furnished,10,8975678
+LB Nagar,2116,4,4,1,21,1,Unfurnished,4,10794123
+Financial District,915,2,2,16,6,1,Furnished,7,7822402
+Kompally,2399,5,5,14,19,1,Furnished,1,13960247
+LB Nagar,676,2,3,7,16,1,Semi-Furnished,8,3746293
+Begumpet,1588,3,3,26,16,1,Furnished,7,10855187
+Narsingi,1176,2,2,20,16,1,Semi-Furnished,6,8566752
+Miyapur,1185,2,2,22,20,1,Semi-Furnished,5,6826013
+Kukatpally,1325,2,3,6,2,1,Furnished,1,9576071
+Uppal,1441,3,3,22,22,0,Semi-Furnished,1,6928080
+Hitech City,2373,4,4,9,11,1,Unfurnished,10,21324443
+Jubilee Hills,692,1,2,2,6,0,Unfurnished,1,6124669
+Dilsukhnagar,1313,3,4,4,0,1,Unfurnished,8,7028497
+Kokapet,1093,2,2,16,24,1,Unfurnished,10,7934456
+Kondapur,2396,4,4,13,23,1,Semi-Furnished,9,16770872
+Kukatpally,2783,5,5,20,18,1,Unfurnished,2,19663834
+Secunderabad,1000,2,3,14,22,2,Furnished,10,7820313
+Narsingi,1259,2,2,23,2,2,Unfurnished,8,9107560
+Kompally,523,1,2,23,2,1,Semi-Furnished,3,3079427
+Jubilee Hills,2331,4,5,26,1,1,Semi-Furnished,8,22764028
+Kondapur,731,1,1,2,23,1,Semi-Furnished,1,5523369
+Madhapur,1522,3,4,15,8,1,Unfurnished,5,13026598
+Begumpet,1138,2,3,12,24,0,Furnished,10,8544866
+Ameerpet,937,2,3,1,12,1,Furnished,1,6423371
+Miyapur,1399,2,3,5,18,2,Semi-Furnished,2,8477082
+Kompally,2235,4,4,17,3,1,Semi-Furnished,6,12956987
+Narsingi,1553,3,3,17,13,2,Furnished,4,11386146
+Gachibowli,1877,3,3,10,22,1,Unfurnished,4,16063786
+Narsingi,1359,2,3,10,19,2,Furnished,4,10188905
+Ameerpet,1055,2,3,20,14,1,Semi-Furnished,6,5741671
+Financial District,1279,2,3,14,1,1,Unfurnished,9,11092079
+Dilsukhnagar,1406,3,3,24,16,0,Unfurnished,2,7691732
+Shamshabad,652,1,2,25,2,1,Semi-Furnished,7,2835142
+Narsingi,1352,3,3,27,21,1,Unfurnished,8,9550951
+Miyapur,1009,2,2,5,10,1,Furnished,6,5496405
+Secunderabad,497,1,1,24,13,1,Semi-Furnished,6,3406039
+Shamshabad,1304,2,3,29,0,2,Semi-Furnished,7,5785643
+Jubilee Hills,2933,5,5,9,22,1,Furnished,3,27076378
+Madhapur,1343,3,4,11,7,2,Semi-Furnished,4,12934208
+Kompally,2222,4,4,25,21,1,Semi-Furnished,9,13370526
+Begumpet,1996,3,4,24,12,1,Semi-Furnished,4,14587976
+LB Nagar,1095,2,3,17,5,1,Unfurnished,8,5604672
+Secunderabad,1376,3,3,21,14,1,Semi-Furnished,5,9442489
+Shamshabad,1655,3,4,17,16,1,Semi-Furnished,10,8580801
+Jubilee Hills,1615,3,4,9,18,1,Furnished,3,15607645
+LB Nagar,1799,3,4,3,15,1,Semi-Furnished,2,8154991
+Kondapur,2308,4,4,14,13,1,Semi-Furnished,2,15724386
+Kukatpally,841,2,2,7,11,1,Furnished,10,7200346
+Gachibowli,2040,3,3,8,0,1,Semi-Furnished,1,17182249
+Shamshabad,1750,3,4,16,16,1,Semi-Furnished,6,7077596
+Dilsukhnagar,1402,3,3,4,20,0,Unfurnished,3,8478872
+Uppal,2044,3,3,29,1,1,Furnished,7,8929789
+Kompally,1436,3,3,29,12,1,Furnished,7,8378096
+Miyapur,2625,5,5,4,14,1,Semi-Furnished,7,17135119
+Ameerpet,1842,3,3,7,16,0,Furnished,4,11023170
+Banjara Hills,1751,3,4,8,1,2,Unfurnished,9,16588756
+Banjara Hills,1718,3,4,8,10,2,Semi-Furnished,4,16860524
+Madhapur,1577,3,4,12,10,1,Unfurnished,7,14653987
+Kompally,1246,3,4,28,24,1,Semi-Furnished,3,7661993
+Dilsukhnagar,640,1,1,1,13,1,Semi-Furnished,8,3957202
+Manikonda,2217,4,5,14,11,1,Semi-Furnished,7,11909785
+Madhapur,1913,3,4,10,22,2,Unfurnished,9,17255622
+Hitech City,2162,4,4,1,13,1,Unfurnished,4,19891733
+Uppal,717,2,3,3,17,1,Furnished,10,4518230
+Ameerpet,991,2,3,23,16,1,Unfurnished,4,5688229
+Shamshabad,1534,3,4,9,14,2,Semi-Furnished,6,7555666
+Secunderabad,2107,4,5,9,7,2,Semi-Furnished,5,14148754
+Hitech City,1463,2,3,17,18,1,Semi-Furnished,2,12208763
+Kondapur,1029,2,3,16,21,0,Semi-Furnished,7,7651190
+Ameerpet,1082,2,2,1,2,1,Semi-Furnished,10,7738659
+Kukatpally,1858,3,3,3,5,1,Unfurnished,4,12577075
+Miyapur,1312,3,3,5,8,1,Semi-Furnished,2,7257373
+Kondapur,1226,2,3,2,21,1,Semi-Furnished,6,8312643
+Madhapur,709,2,2,21,11,0,Furnished,9,6412413
+Manikonda,1182,3,3,22,18,1,Furnished,8,7058414
+Dilsukhnagar,1052,2,3,7,6,2,Semi-Furnished,6,6360440
+Shamshabad,1435,3,3,1,8,0,Furnished,9,6896432
+Banjara Hills,1531,2,2,22,5,2,Semi-Furnished,6,12413803
+Kondapur,1827,3,3,12,2,1,Semi-Furnished,6,11025721
+Gachibowli,2165,4,4,1,1,1,Furnished,2,18661410
+Begumpet,2692,4,4,21,13,1,Semi-Furnished,9,18277809
+Madhapur,1201,2,2,27,12,2,Furnished,6,10802198
+Ameerpet,1607,3,4,1,10,2,Semi-Furnished,9,10797910
+Financial District,958,2,2,6,15,1,Semi-Furnished,4,9325332
+Kukatpally,981,2,2,3,5,1,Unfurnished,4,6836852
+Gachibowli,1758,3,3,21,4,0,Semi-Furnished,5,15873069
+Madhapur,1121,2,3,0,12,0,Unfurnished,5,9456364
+Kokapet,822,2,2,10,20,2,Unfurnished,10,6005192
+Hitech City,2418,4,4,28,19,2,Semi-Furnished,10,21947920
+LB Nagar,1193,2,2,1,15,1,Furnished,10,6356740
+Miyapur,1798,3,4,7,16,1,Unfurnished,8,10652518
+LB Nagar,1502,2,3,12,7,0,Semi-Furnished,3,6746934
+Gachibowli,389,1,2,13,3,1,Furnished,7,4345647
+Financial District,1156,2,2,7,9,0,Unfurnished,1,9597234
+Miyapur,1949,4,5,16,3,1,Furnished,9,11254941
+Kokapet,897,2,2,12,20,2,Semi-Furnished,2,6663530
+Ameerpet,384,1,1,7,13,1,Semi-Furnished,6,2714255
+Shamshabad,1142,2,2,23,20,1,Furnished,7,5442676
+Kukatpally,2367,4,5,20,7,1,Semi-Furnished,7,15680698
+Dilsukhnagar,934,2,2,27,12,1,Unfurnished,4,5274700
+Kokapet,1198,2,2,10,4,1,Semi-Furnished,6,8907649
+Financial District,1300,2,2,4,14,1,Semi-Furnished,8,12022093
+Banjara Hills,1478,3,4,9,1,1,Semi-Furnished,7,12883472
+Jubilee Hills,1623,3,4,25,21,2,Unfurnished,9,14381022
+Jubilee Hills,2326,4,5,5,23,1,Unfurnished,4,21287548
+Shamshabad,2278,4,4,21,7,1,Unfurnished,4,9422463
+LB Nagar,1542,2,2,23,4,1,Semi-Furnished,4,6501785
+Jubilee Hills,1451,3,4,23,12,1,Furnished,5,13410794
+Hitech City,1563,3,3,22,0,0,Unfurnished,9,12701029
+LB Nagar,834,2,3,14,5,2,Semi-Furnished,7,4268648
+Secunderabad,2821,5,5,2,12,1,Semi-Furnished,6,20115074
+LB Nagar,1567,3,4,4,4,1,Semi-Furnished,5,7774823
+Hitech City,1094,2,2,0,23,1,Furnished,6,11663073
+Uppal,1803,3,3,3,20,0,Unfurnished,6,8919567
+Kukatpally,931,2,3,21,9,2,Unfurnished,9,6297377
+LB Nagar,2410,4,4,20,3,1,Furnished,6,12313886
+Kompally,563,1,2,6,20,0,Semi-Furnished,9,3873921
+Kondapur,2527,5,5,23,16,1,Furnished,9,18612936
+Secunderabad,385,1,2,21,22,1,Furnished,2,3106593
+Ameerpet,934,2,3,5,1,1,Unfurnished,2,5490030
+Manikonda,1075,2,2,6,21,1,Furnished,6,7320688
+Begumpet,2323,5,6,20,19,1,Furnished,4,16672872
+Kompally,1041,2,3,25,16,0,Unfurnished,3,5055012
+Miyapur,996,2,2,22,24,1,Unfurnished,5,6004917
+Financial District,1048,2,2,8,3,1,Semi-Furnished,9,9179222
+Kompally,548,2,3,5,11,1,Semi-Furnished,3,4026066
+Kokapet,1014,2,2,7,4,1,Furnished,5,7677079
+Hitech City,2028,4,5,0,12,2,Semi-Furnished,2,19760524
+Hitech City,2577,5,6,4,24,0,Unfurnished,4,23430820
+Jubilee Hills,1196,2,2,5,18,2,Furnished,2,11057298
+Kompally,1797,3,3,11,15,1,Furnished,1,10151894
+Gachibowli,1423,2,2,24,22,1,Semi-Furnished,5,12149759
+Dilsukhnagar,1469,3,4,15,1,1,Semi-Furnished,7,8740659
+Madhapur,2098,4,4,2,3,2,Unfurnished,5,19619866
+Gachibowli,2268,4,4,16,6,2,Unfurnished,2,20010539
+Financial District,2006,4,5,23,13,1,Furnished,8,18217561
+Gachibowli,1574,3,4,7,23,0,Furnished,6,14536363
+Manikonda,1758,3,4,27,19,2,Semi-Furnished,9,10674702
+Financial District,2273,4,4,7,16,1,Unfurnished,8,22401631
+Shamshabad,889,2,2,29,8,0,Furnished,8,3847413
+Jubilee Hills,1629,3,3,16,15,0,Semi-Furnished,2,14108904
+Kondapur,1444,2,2,8,8,1,Furnished,8,10482734
+Banjara Hills,325,1,2,18,19,1,Semi-Furnished,3,3143129
+Madhapur,1665,3,4,27,3,1,Semi-Furnished,6,13086223
+Dilsukhnagar,2758,5,6,22,5,0,Unfurnished,1,16637478
+Dilsukhnagar,1612,3,4,24,12,1,Unfurnished,3,8033525
+Manikonda,1059,2,2,13,16,1,Unfurnished,1,5954252
+Kukatpally,1824,4,4,29,8,1,Unfurnished,9,12607414
+Narsingi,1315,2,2,12,10,0,Semi-Furnished,1,9049056
+Miyapur,1703,3,3,11,15,1,Semi-Furnished,10,10347074
+Kondapur,578,1,2,17,17,1,Semi-Furnished,4,4095159
+Kokapet,1283,2,2,11,18,1,Furnished,9,9609738
+Begumpet,1691,3,3,27,2,1,Unfurnished,2,11716802
+Madhapur,2311,4,5,11,2,1,Unfurnished,10,21515183
+Kondapur,1353,2,2,24,5,2,Semi-Furnished,2,8726137
+Hitech City,1850,3,3,27,11,2,Furnished,9,15814011
+Miyapur,2145,4,4,27,0,1,Semi-Furnished,5,11815652
+Kukatpally,907,2,3,28,9,1,Semi-Furnished,1,6016114
+Narsingi,1403,3,4,11,5,1,Semi-Furnished,2,9687439
+Kondapur,877,2,3,25,13,0,Semi-Furnished,10,6282102
+Financial District,300,1,2,4,4,2,Semi-Furnished,7,3323667
+Madhapur,1628,3,4,12,15,2,Furnished,9,15531262
+Narsingi,1781,3,3,2,9,2,Semi-Furnished,10,12662328
+Narsingi,1776,3,4,3,18,1,Semi-Furnished,3,12437420
+LB Nagar,1708,3,3,24,23,1,Unfurnished,5,7923359
+Miyapur,300,1,1,26,20,1,Semi-Furnished,6,1866598
+Ameerpet,1577,3,3,25,11,2,Furnished,10,10471209
+Manikonda,715,2,3,3,5,1,Semi-Furnished,7,4740532
+Kompally,1922,3,4,20,13,1,Semi-Furnished,4,10293870
+Kukatpally,2983,5,5,7,18,1,Unfurnished,5,20559162
+LB Nagar,2927,5,5,21,21,1,Semi-Furnished,10,13957915
+Manikonda,2242,4,4,29,14,2,Unfurnished,10,13831289
+Narsingi,1075,2,2,4,0,0,Unfurnished,8,7425216
+Kondapur,2269,4,5,7,22,1,Unfurnished,4,16679044
+Madhapur,1319,2,2,1,12,2,Semi-Furnished,2,13386274
+Miyapur,1072,2,3,1,1,1,Semi-Furnished,2,5850444
+Kukatpally,1556,3,3,21,6,1,Unfurnished,9,10279840
+LB Nagar,1479,3,3,16,22,1,Semi-Furnished,10,7272129
+Hitech City,1428,3,3,27,13,2,Furnished,6,13501179
+Hitech City,1094,2,3,13,1,1,Semi-Furnished,9,8864435
+Dilsukhnagar,1762,3,3,17,21,1,Unfurnished,2,9454767
+Miyapur,378,1,1,10,24,1,Unfurnished,2,2525361
+Dilsukhnagar,1627,3,4,5,15,2,Semi-Furnished,1,10099584
+Banjara Hills,2031,4,5,20,20,2,Unfurnished,8,18523152
+Dilsukhnagar,1548,2,3,4,9,1,Semi-Furnished,7,8885350
+Secunderabad,1904,3,3,8,6,2,Semi-Furnished,4,13996430
+Jubilee Hills,1307,2,3,0,3,1,Semi-Furnished,2,11770488
+Secunderabad,926,2,3,11,11,1,Semi-Furnished,6,7359524
+Banjara Hills,2091,4,4,21,21,1,Unfurnished,5,18093645
+Begumpet,504,1,1,24,2,1,Semi-Furnished,6,3221601
+Shamshabad,554,1,1,5,0,1,Furnished,1,3048930
+Miyapur,947,2,3,14,8,1,Unfurnished,5,5508908
+Banjara Hills,1841,3,3,15,10,1,Semi-Furnished,4,18034178
+Kompally,1724,3,3,23,7,1,Unfurnished,8,10167824
+Gachibowli,1526,3,4,27,22,1,Semi-Furnished,8,15531597
+Secunderabad,1358,2,2,27,21,1,Unfurnished,7,9892669
+Begumpet,1972,4,5,12,20,1,Furnished,1,13510975
+Narsingi,2260,4,4,8,13,0,Unfurnished,5,17332758
+Shamshabad,1328,3,3,28,20,2,Semi-Furnished,6,6265051
+Kokapet,2107,3,3,5,7,1,Unfurnished,1,13127937
+Narsingi,2664,5,6,5,8,1,Furnished,8,19992933
+Dilsukhnagar,956,2,2,21,17,2,Unfurnished,3,5457144
+Jubilee Hills,1859,3,3,29,3,1,Semi-Furnished,7,15686965
+Narsingi,1098,2,2,8,4,0,Semi-Furnished,10,8680977
+Ameerpet,562,1,2,15,21,1,Unfurnished,3,3017186
+Dilsukhnagar,1498,3,3,26,1,2,Unfurnished,7,7510535
+Narsingi,1309,3,3,16,17,2,Semi-Furnished,5,9316168
+Kokapet,1652,3,3,10,8,0,Unfurnished,1,10641915
+Jubilee Hills,1986,3,3,23,18,1,Semi-Furnished,3,16683628
+Financial District,1384,2,2,22,9,2,Semi-Furnished,8,11803632
+Secunderabad,1118,2,2,26,3,1,Furnished,1,7560617
+Gachibowli,969,2,3,3,2,1,Semi-Furnished,5,9673549
+Shamshabad,1719,3,3,24,24,0,Semi-Furnished,9,7545051
+Begumpet,1094,2,2,18,21,1,Furnished,6,7974270
+Financial District,1599,3,4,17,4,1,Furnished,9,15516883
+Manikonda,2491,4,5,16,15,0,Semi-Furnished,10,12737342
+Jubilee Hills,2330,4,4,19,14,1,Furnished,6,18851916
+Narsingi,1771,3,3,23,1,1,Semi-Furnished,6,12003098
+Banjara Hills,1016,2,2,1,8,1,Semi-Furnished,6,10003393
+Shamshabad,2961,5,6,14,12,2,Semi-Furnished,3,14301479
+Kompally,1570,3,3,13,0,2,Semi-Furnished,4,9252520
+Financial District,1183,3,3,4,15,2,Unfurnished,3,11796306
+Financial District,1426,3,3,23,21,1,Furnished,7,12181749
+Uppal,1663,3,3,29,20,1,Semi-Furnished,1,6981441
+Madhapur,962,2,3,26,0,1,Semi-Furnished,3,8228330
+Kondapur,1132,2,2,19,21,1,Unfurnished,7,7863835
+Financial District,2194,4,5,9,16,1,Semi-Furnished,9,19461915
+Kondapur,1119,2,2,6,2,1,Semi-Furnished,2,7291862
+Begumpet,1412,3,3,14,5,0,Semi-Furnished,4,10092620
+Dilsukhnagar,2059,3,3,21,2,1,Semi-Furnished,9,12012974
+Banjara Hills,1320,3,3,1,3,2,Unfurnished,10,12341608
+Kompally,811,2,3,12,0,0,Semi-Furnished,1,5089459
+Secunderabad,1874,3,4,9,5,2,Unfurnished,2,12813896
+Kokapet,1073,2,3,14,3,1,Semi-Furnished,10,8201808
+Financial District,1391,3,4,19,12,0,Unfurnished,7,12702908
+Kompally,1493,3,3,4,10,1,Unfurnished,2,8275888
+Gachibowli,756,2,2,22,9,2,Semi-Furnished,4,7373934
+LB Nagar,1864,4,4,26,13,1,Furnished,1,8607914
+Secunderabad,1270,2,3,0,21,2,Unfurnished,5,9175817
+Jubilee Hills,1528,3,3,3,17,1,Furnished,2,15585438
+Jubilee Hills,1391,3,4,21,6,0,Semi-Furnished,4,12510707
+Kompally,1094,2,3,5,5,1,Semi-Furnished,1,6443807
+Begumpet,2361,4,5,18,2,2,Unfurnished,8,16934105
+Begumpet,1859,3,3,24,12,1,Furnished,5,12649015
+Hitech City,1469,3,3,16,20,2,Unfurnished,3,12441658
+Kukatpally,1284,2,3,22,15,1,Semi-Furnished,6,9246246
+Secunderabad,1211,2,3,14,15,1,Unfurnished,8,8099028
+Jubilee Hills,1724,3,4,29,16,1,Semi-Furnished,3,13308581
+Uppal,905,2,3,9,10,1,Unfurnished,6,4440794
+Financial District,1151,2,3,8,14,2,Furnished,3,10861178
+Begumpet,1526,3,4,12,21,1,Unfurnished,1,10064214
+Kukatpally,1005,2,3,16,2,1,Semi-Furnished,5,6610516
+Banjara Hills,540,1,2,14,20,1,Semi-Furnished,9,5002158
+Secunderabad,1722,3,4,18,11,1,Furnished,3,12532354
+Financial District,2039,4,5,29,24,2,Furnished,2,18159998
+Miyapur,2299,4,4,27,19,1,Unfurnished,2,12603186
+LB Nagar,1984,4,4,21,13,1,Unfurnished,4,8447960
+Shamshabad,513,1,1,1,16,1,Semi-Furnished,2,2936128
+Kompally,837,1,1,15,12,1,Semi-Furnished,4,4135428
+Narsingi,389,1,1,27,8,1,Semi-Furnished,10,3035087
+Narsingi,1393,2,3,9,4,1,Furnished,10,10058730
+LB Nagar,1398,3,3,12,1,1,Furnished,1,6811615
+Jubilee Hills,1213,2,2,16,5,1,Semi-Furnished,3,10573490
+Banjara Hills,1297,3,4,26,3,2,Unfurnished,5,11131264
+Kompally,2347,4,4,0,7,0,Unfurnished,6,14029482
+Gachibowli,2274,4,5,24,23,1,Semi-Furnished,7,20646547
+Miyapur,1798,3,3,28,5,0,Furnished,10,10498510
+Gachibowli,2730,5,5,16,2,0,Semi-Furnished,3,23054986
+Ameerpet,343,1,1,22,14,1,Unfurnished,3,1934751
+Manikonda,1516,3,3,28,18,1,Semi-Furnished,9,8555479
+Shamshabad,1352,3,4,27,4,1,Semi-Furnished,5,5577800
+Dilsukhnagar,1790,3,4,13,10,2,Furnished,7,10713029
+Kokapet,996,2,3,26,24,1,Unfurnished,3,6876732
+Banjara Hills,1762,3,3,21,17,1,Furnished,2,14800022
+Shamshabad,1614,3,3,7,21,1,Furnished,8,7466545
+LB Nagar,1177,2,2,25,10,1,Semi-Furnished,6,5145007
+Shamshabad,589,1,1,19,22,2,Semi-Furnished,7,2876856
+Manikonda,2325,4,5,23,8,2,Unfurnished,10,12501118
+Narsingi,1888,3,4,29,13,1,Unfurnished,7,12684918
+Dilsukhnagar,2066,4,5,11,1,1,Unfurnished,8,11711985
+Begumpet,1166,2,2,24,7,1,Unfurnished,7,7848663
+Miyapur,1010,2,3,3,12,0,Unfurnished,6,6410668
+Hitech City,1093,2,2,22,10,1,Furnished,5,9323674
+Madhapur,2223,4,4,0,22,2,Semi-Furnished,7,20162383
+Begumpet,992,2,2,17,18,2,Semi-Furnished,10,6917966
+Kompally,853,1,1,7,19,0,Semi-Furnished,9,5261184
+Dilsukhnagar,1840,3,4,17,15,1,Semi-Furnished,9,10418736
+Miyapur,1152,2,3,24,13,1,Unfurnished,7,5909161
+Miyapur,1693,3,4,27,20,1,Unfurnished,6,8779813
+Jubilee Hills,2512,4,5,29,24,2,Unfurnished,10,24635569
+Gachibowli,2303,4,4,4,19,1,Unfurnished,5,22438057
+Shamshabad,1206,2,2,12,16,1,Semi-Furnished,1,5971637
+Miyapur,2012,4,4,25,14,2,Semi-Furnished,1,10911944
+Manikonda,2027,3,4,12,17,1,Furnished,5,11985727
+Manikonda,1253,2,2,9,11,1,Unfurnished,4,7192366
+Banjara Hills,2044,4,5,14,11,1,Unfurnished,9,18911363
+Miyapur,1344,2,2,29,18,2,Unfurnished,1,6964113
+Banjara Hills,1248,2,3,5,21,0,Unfurnished,3,11174185
+Miyapur,2161,4,4,18,1,1,Furnished,1,12269762
+Madhapur,1716,3,3,25,16,1,Furnished,4,15678329
+Narsingi,1529,3,4,26,0,0,Furnished,1,10393354
+Dilsukhnagar,880,2,2,13,12,1,Semi-Furnished,10,5548592
+Begumpet,2040,4,5,23,4,1,Furnished,1,13843969
+Kompally,1817,3,4,22,17,2,Furnished,7,10114177
+Manikonda,1549,3,3,25,20,1,Furnished,6,8801648
+Banjara Hills,1255,2,3,23,24,1,Semi-Furnished,7,12096698
+Hitech City,1663,3,3,2,7,1,Semi-Furnished,1,15858680
+Miyapur,2235,4,5,22,4,1,Furnished,5,12129791
+Secunderabad,2377,4,5,10,11,1,Unfurnished,8,18185630
+Secunderabad,435,1,2,19,24,1,Semi-Furnished,8,3375273
+Kondapur,1276,3,3,20,14,2,Semi-Furnished,8,9878236
+Kompally,1156,2,2,15,13,2,Semi-Furnished,8,6785737
+Kompally,1826,4,4,2,5,1,Unfurnished,7,10494715
+Jubilee Hills,320,1,1,17,17,1,Furnished,7,3353339
+Dilsukhnagar,1135,2,3,16,2,1,Semi-Furnished,10,6877413
+Manikonda,732,1,1,17,0,1,Furnished,6,4324425
+Uppal,1193,2,2,15,15,0,Semi-Furnished,2,4772304
+Gachibowli,1170,2,2,23,11,2,Semi-Furnished,9,10279094
+Manikonda,2047,3,4,28,6,1,Furnished,7,11797695
+Kondapur,470,1,2,28,22,1,Semi-Furnished,8,3390064
+Secunderabad,1054,2,2,2,9,0,Furnished,4,7880313
+Hitech City,1154,2,2,2,21,1,Semi-Furnished,7,10946040
+Ameerpet,1182,3,4,26,8,1,Unfurnished,5,6073829
+Kompally,1559,3,4,23,15,1,Furnished,10,9511742
+Uppal,1423,3,3,2,10,0,Furnished,7,7319864
+Narsingi,1072,2,3,21,10,1,Unfurnished,3,7616657
+Manikonda,532,1,2,11,12,1,Unfurnished,10,3333867
+Kompally,1269,2,3,7,11,1,Unfurnished,1,6301800
+Hitech City,2177,4,5,28,14,2,Unfurnished,10,18065483
+Kukatpally,713,2,2,3,14,1,Unfurnished,10,5353369
+Kondapur,2108,4,4,3,1,1,Semi-Furnished,5,14400734
+Hitech City,1525,3,3,21,3,2,Furnished,4,14304993
+Secunderabad,1252,2,2,24,19,1,Furnished,2,8211726
+Kondapur,1380,2,3,28,11,0,Furnished,10,9007602
+Kukatpally,1348,2,2,20,18,2,Furnished,4,9302494
+Begumpet,1878,3,3,13,6,2,Semi-Furnished,1,13266859
+Ameerpet,1782,3,4,1,9,2,Unfurnished,10,10178980
+Ameerpet,2659,5,6,9,16,2,Furnished,2,16586873
+Shamshabad,1245,2,3,7,0,1,Semi-Furnished,10,5659143
+Kompally,1314,2,2,10,8,2,Unfurnished,9,7781839
+Jubilee Hills,1665,3,3,24,1,2,Semi-Furnished,2,14189494
+Banjara Hills,2108,3,4,24,13,1,Furnished,5,18416856
+Shamshabad,1316,3,3,25,11,1,Furnished,4,6596714
+Uppal,1881,4,5,12,3,1,Semi-Furnished,7,9355587
+LB Nagar,1337,2,2,13,6,0,Semi-Furnished,1,6351842
+LB Nagar,2240,4,4,16,8,1,Semi-Furnished,5,10008468
+LB Nagar,1997,4,5,10,0,0,Semi-Furnished,3,8556943
+Uppal,671,1,1,5,24,1,Semi-Furnished,5,4123501
+Miyapur,1093,2,2,28,21,2,Furnished,3,6539654
+Banjara Hills,1075,2,2,19,5,1,Semi-Furnished,1,8205725
+Gachibowli,1687,3,4,19,8,2,Semi-Furnished,3,14050875
+Madhapur,1324,2,3,27,19,1,Furnished,3,12244713
+Miyapur,1089,2,3,10,12,1,Unfurnished,3,5912502
+Manikonda,790,2,2,25,9,2,Unfurnished,3,4430532
+Madhapur,1267,2,2,7,7,1,Semi-Furnished,8,11620608
+Kukatpally,1769,3,3,13,11,1,Furnished,5,11992637
+Manikonda,894,2,3,21,3,1,Furnished,10,5974408
+Ameerpet,1519,3,3,10,14,1,Furnished,3,9710355
+Banjara Hills,1237,3,3,28,12,1,Furnished,3,10606535
+Madhapur,2048,3,4,5,22,1,Semi-Furnished,1,17400827
+Kokapet,1136,2,2,17,5,2,Unfurnished,5,7052992
+Jubilee Hills,351,1,2,6,17,2,Semi-Furnished,8,4092901
+Financial District,1276,2,2,24,17,1,Furnished,3,12455189
+Kompally,2297,4,4,13,15,1,Furnished,6,15343718
+Ameerpet,1921,4,5,6,0,1,Furnished,10,10998890
+LB Nagar,1621,3,4,17,4,0,Furnished,10,8360755
+Kondapur,2368,4,5,11,22,1,Semi-Furnished,5,16448322
+Kompally,1614,3,3,5,4,2,Furnished,10,9175474
+Ameerpet,2428,4,4,21,1,2,Semi-Furnished,9,13279468
+Manikonda,2153,4,4,16,8,0,Furnished,5,12365259
+Kondapur,2339,4,4,14,6,1,Unfurnished,3,14945153
+Begumpet,1074,2,2,12,18,2,Unfurnished,10,7596583
+Shamshabad,1659,3,3,15,12,2,Unfurnished,5,7359191
+Kukatpally,1135,2,2,4,11,0,Furnished,8,7852762
+Narsingi,772,2,2,24,22,2,Semi-Furnished,9,5849678
+Kokapet,2394,4,4,24,18,1,Furnished,9,15679123
+Miyapur,1755,3,3,6,12,1,Unfurnished,6,10120466
+Kokapet,1919,4,5,11,14,1,Semi-Furnished,7,16069461
+Ameerpet,2222,4,4,12,11,1,Semi-Furnished,7,12849452
+Financial District,1442,2,3,18,19,2,Unfurnished,10,11473426
+Gachibowli,657,2,2,22,21,0,Semi-Furnished,3,6265507
+LB Nagar,983,2,2,22,10,1,Semi-Furnished,2,4068760
+Kompally,1519,2,2,17,23,1,Unfurnished,10,9404982
+Kukatpally,2375,4,4,12,24,2,Semi-Furnished,1,15683605
+Shamshabad,1169,2,2,24,17,1,Furnished,6,6353512
+Madhapur,371,1,1,17,16,1,Unfurnished,3,3249617
+Banjara Hills,1145,2,2,24,15,1,Furnished,3,10853650
+Manikonda,911,2,2,15,11,2,Semi-Furnished,9,5477719
+LB Nagar,1504,3,3,6,9,2,Semi-Furnished,2,7316993
+Shamshabad,1849,3,4,12,8,1,Unfurnished,3,8106335
+Shamshabad,1685,3,4,28,12,0,Semi-Furnished,9,7558104
+Miyapur,1287,3,3,27,23,0,Semi-Furnished,6,6852623
+Kukatpally,2714,5,6,18,4,2,Semi-Furnished,2,19411308
+Shamshabad,1888,3,3,6,9,1,Semi-Furnished,3,9164611
+Kokapet,851,2,2,27,18,1,Furnished,8,6936259
+Secunderabad,1348,3,4,24,15,1,Unfurnished,8,8786548
+Kokapet,1024,2,3,12,6,2,Furnished,9,8256681
+Madhapur,1423,3,4,16,13,1,Semi-Furnished,3,13690090
+Jubilee Hills,1097,2,2,15,20,1,Unfurnished,8,9695746
+Financial District,2405,4,4,23,21,1,Furnished,6,22430183
+LB Nagar,1338,2,3,11,22,1,Furnished,5,6598615
+Banjara Hills,1597,2,3,2,15,2,Furnished,4,14971160
+Kompally,1343,2,3,16,23,1,Semi-Furnished,6,8351848
+Uppal,1281,2,2,22,7,1,Semi-Furnished,9,5635346
+Jubilee Hills,2284,4,4,29,14,1,Semi-Furnished,2,19764548
+Kokapet,2298,3,4,5,13,2,Unfurnished,1,18195107
+Kondapur,1322,3,3,20,21,1,Furnished,10,8805858
+Narsingi,1343,2,2,16,6,2,Unfurnished,3,9617963
+Secunderabad,1789,3,3,21,21,2,Furnished,1,14925351
+Kokapet,1442,3,3,28,17,0,Semi-Furnished,1,10411496
+Begumpet,1078,2,2,17,21,1,Semi-Furnished,7,7570115
+Begumpet,2181,4,5,1,3,2,Semi-Furnished,10,15954721
+Kukatpally,2245,4,4,19,17,0,Semi-Furnished,9,15694067
+Kompally,1544,3,3,23,5,2,Furnished,1,9464610
+Kompally,920,2,2,10,19,2,Semi-Furnished,10,5212071
+Jubilee Hills,2425,4,4,14,13,2,Semi-Furnished,7,19977242
+Financial District,1081,2,2,20,20,1,Semi-Furnished,6,8906249
+Miyapur,1101,2,2,16,24,2,Furnished,5,7383749
+Kukatpally,2077,3,4,1,9,1,Semi-Furnished,6,13710635
+Secunderabad,1478,3,3,17,5,1,Unfurnished,10,10402606
+LB Nagar,2673,5,6,12,22,1,Furnished,2,12527987
+Banjara Hills,1183,3,4,2,14,1,Semi-Furnished,1,9475663
+Secunderabad,1757,3,4,10,6,2,Semi-Furnished,4,13234644
+Madhapur,1897,3,3,29,16,1,Furnished,10,17160345
+Financial District,1452,3,4,26,16,1,Semi-Furnished,10,14074863
+Jubilee Hills,1386,3,3,27,21,0,Semi-Furnished,10,11976998
+Kondapur,1692,3,3,13,23,1,Unfurnished,9,10971364
+Jubilee Hills,1542,3,3,16,20,1,Semi-Furnished,10,14833114
+Ameerpet,1015,2,2,16,17,1,Semi-Furnished,2,5810097
+Narsingi,1726,3,4,19,23,1,Furnished,9,12481369
+LB Nagar,1248,2,2,19,24,1,Unfurnished,1,5165248
+Kokapet,2221,4,4,11,0,1,Semi-Furnished,3,16258020
+Ameerpet,1867,4,5,3,15,0,Semi-Furnished,1,11706666
+Narsingi,818,1,1,6,5,1,Unfurnished,9,5202284
+Uppal,1851,3,3,12,19,1,Furnished,10,8503534
+Ameerpet,2102,3,4,29,1,1,Semi-Furnished,4,11892993
+Miyapur,700,1,2,29,15,1,Unfurnished,3,3329576
+Dilsukhnagar,1305,3,4,11,13,0,Furnished,6,7684301
+Kokapet,770,2,3,6,15,1,Unfurnished,5,6340284
+Ameerpet,868,2,2,2,4,1,Semi-Furnished,3,5671462
+Madhapur,1226,2,2,7,9,1,Semi-Furnished,7,9854826
+Uppal,1664,3,3,9,16,1,Semi-Furnished,3,7365691
+Banjara Hills,1570,3,4,21,24,2,Semi-Furnished,2,13118358
+Dilsukhnagar,2313,4,4,24,11,1,Semi-Furnished,5,12113428
+Hitech City,1484,2,3,21,17,1,Semi-Furnished,2,12311775
+Kukatpally,2401,4,4,5,21,2,Semi-Furnished,10,16359929
+Madhapur,1477,3,4,7,20,1,Semi-Furnished,7,13588152
+Banjara Hills,1506,3,3,13,24,2,Unfurnished,10,13174499
+Ameerpet,1819,4,4,6,7,2,Unfurnished,1,9794831
+Kondapur,886,1,1,13,23,1,Furnished,5,7345732
+Begumpet,1687,3,4,0,14,1,Semi-Furnished,10,13290657
+Financial District,1520,3,3,15,0,0,Semi-Furnished,9,12767091
+Miyapur,887,2,2,7,11,2,Semi-Furnished,2,5277912
+LB Nagar,2117,4,5,22,7,1,Furnished,5,10383131
+LB Nagar,1459,3,4,17,14,1,Furnished,8,7350547
+Gachibowli,1067,2,2,10,11,1,Unfurnished,5,10387575
+Manikonda,1020,2,2,26,15,1,Furnished,8,6244831
+Manikonda,1688,4,4,19,21,1,Unfurnished,2,9694176
+Uppal,1373,2,2,10,9,1,Semi-Furnished,7,6378975
+Secunderabad,2319,4,5,5,14,0,Semi-Furnished,3,15798804
+Begumpet,1370,2,3,24,22,1,Furnished,3,10242092
+Secunderabad,2429,4,4,3,8,1,Unfurnished,10,16334354
+Manikonda,845,2,2,25,16,1,Unfurnished,3,4571849
+Uppal,2536,4,4,21,3,1,Semi-Furnished,7,11915491
+Jubilee Hills,2207,4,4,14,7,1,Semi-Furnished,7,21220511
+Narsingi,1726,3,3,3,15,1,Semi-Furnished,4,12656318
+Gachibowli,1637,3,3,16,11,1,Semi-Furnished,10,15630471
+Shamshabad,727,2,3,17,4,2,Semi-Furnished,2,3627998
+Uppal,1069,2,2,6,24,1,Semi-Furnished,2,5742397
+Jubilee Hills,834,2,3,4,9,1,Semi-Furnished,3,7849954
+Miyapur,1355,2,3,16,8,0,Unfurnished,4,7675661
+Miyapur,1729,3,3,28,10,1,Semi-Furnished,10,9854199
+Madhapur,2335,4,5,15,23,2,Unfurnished,6,20678356
+Kondapur,902,2,2,0,0,1,Furnished,3,6576696
+Secunderabad,1538,3,4,19,19,1,Furnished,8,11168640
+Manikonda,2369,4,4,16,1,2,Semi-Furnished,6,13587198
+Begumpet,3121,5,5,16,4,2,Unfurnished,7,20904255
+Narsingi,2184,4,4,23,13,1,Unfurnished,3,14749285
+Dilsukhnagar,1135,2,3,26,18,1,Semi-Furnished,5,5630356
+Narsingi,2140,4,4,6,21,1,Furnished,2,15206514
+Kukatpally,2355,4,4,1,6,1,Unfurnished,9,16561320
+Secunderabad,1251,2,3,19,24,2,Unfurnished,6,8701462
+Manikonda,1623,3,3,0,6,1,Semi-Furnished,5,9356057
+Dilsukhnagar,1086,2,2,9,14,1,Furnished,4,6858782
+Kukatpally,1494,3,4,22,1,0,Semi-Furnished,10,10568319
+Financial District,803,2,3,21,21,2,Unfurnished,1,7086202
+Kukatpally,1151,2,3,19,5,2,Semi-Furnished,9,8063509
+LB Nagar,1523,3,3,7,15,1,Unfurnished,9,7549910
+Miyapur,988,2,3,16,8,2,Furnished,2,5865727
+Shamshabad,880,2,3,2,2,2,Furnished,5,4869429
+Shamshabad,2232,4,4,12,23,1,Semi-Furnished,6,9827128
+Manikonda,1676,3,3,29,6,1,Semi-Furnished,4,8239127
+Jubilee Hills,1288,3,3,5,8,1,Semi-Furnished,2,11423618
+Kokapet,1568,3,3,5,22,1,Furnished,2,10330107
+Shamshabad,1155,2,3,19,0,1,Semi-Furnished,7,5658385
+Kokapet,1301,3,3,9,14,1,Semi-Furnished,2,9132172
+Banjara Hills,1718,2,2,12,8,1,Furnished,5,13913464
+Kukatpally,2118,4,5,5,4,2,Semi-Furnished,10,14851234
+Manikonda,1267,2,3,18,6,2,Unfurnished,4,6520227
+Ameerpet,702,1,2,5,13,0,Unfurnished,2,4148897
+Banjara Hills,1817,3,3,10,5,1,Unfurnished,2,15063943
+Kokapet,1153,2,2,1,5,2,Semi-Furnished,4,8664504
+Narsingi,1214,2,3,25,5,1,Unfurnished,5,8481058
+Kompally,1850,3,3,12,23,2,Semi-Furnished,2,10910498
+Madhapur,1503,3,3,6,5,1,Furnished,5,12140741
+Shamshabad,1742,3,4,8,14,1,Furnished,6,9673547
+Manikonda,2314,4,4,8,7,1,Semi-Furnished,6,13221454
+Uppal,2737,5,5,16,10,2,Semi-Furnished,5,12910674
+Begumpet,1270,2,2,0,22,1,Unfurnished,6,9466436
+Gachibowli,1863,3,3,21,4,1,Furnished,4,16939839
+Banjara Hills,676,1,1,22,10,1,Semi-Furnished,10,5795336
+LB Nagar,1100,2,2,15,7,1,Semi-Furnished,6,5614601
+Kompally,1393,2,3,18,3,1,Semi-Furnished,10,8241923
+Ameerpet,1273,2,2,26,6,2,Unfurnished,10,6204734
+Banjara Hills,1090,2,3,3,12,1,Unfurnished,6,10245894
+Hitech City,1371,2,2,18,21,1,Semi-Furnished,5,11839655
+Hitech City,1002,2,3,8,17,1,Semi-Furnished,7,9981058
+Kompally,1294,2,2,18,8,1,Semi-Furnished,2,7151056
+Shamshabad,337,1,1,25,14,2,Unfurnished,9,1692101
+Financial District,2077,4,5,13,22,0,Semi-Furnished,10,15385557
+Begumpet,1554,3,4,17,8,1,Unfurnished,2,12179067
+Uppal,1229,2,2,3,17,1,Unfurnished,7,6237707
+Manikonda,2166,4,5,5,12,1,Furnished,4,13095347
+Manikonda,2920,5,5,27,19,2,Semi-Furnished,5,15226607
+Kondapur,2648,5,6,29,17,1,Furnished,9,17772676
+Secunderabad,864,2,3,12,6,2,Furnished,9,7627083
+Jubilee Hills,1141,2,2,1,17,1,Semi-Furnished,10,10084978
+Dilsukhnagar,1909,3,4,29,6,1,Semi-Furnished,3,9993873
+LB Nagar,471,1,2,27,16,2,Semi-Furnished,2,2325788
+Ameerpet,1503,3,3,28,7,2,Furnished,3,8307747
+Shamshabad,1715,3,4,25,18,1,Unfurnished,7,7675106
+Secunderabad,868,2,3,7,4,1,Unfurnished,1,6040871
+Kondapur,980,2,3,10,17,1,Semi-Furnished,7,8220344
+Banjara Hills,1812,3,3,13,17,1,Semi-Furnished,9,16325862
+Miyapur,1509,3,3,13,21,1,Semi-Furnished,3,8409644
+Uppal,1490,3,3,12,20,1,Furnished,9,7362363
+Kompally,1591,3,4,9,23,2,Semi-Furnished,1,8983261
+Financial District,1196,2,3,10,24,1,Furnished,2,10407339
+Dilsukhnagar,1394,2,2,22,13,2,Semi-Furnished,10,7691833
+Secunderabad,533,1,2,1,23,0,Semi-Furnished,3,4331772
+Miyapur,1202,2,2,0,20,1,Semi-Furnished,9,8073087
+Madhapur,2315,4,5,5,22,2,Semi-Furnished,1,20665033
+Miyapur,990,2,2,13,21,2,Unfurnished,5,6098265
+Ameerpet,1176,2,2,6,13,0,Furnished,7,7171525
+Jubilee Hills,1674,3,3,25,4,2,Furnished,4,14349104
+Madhapur,1505,3,3,8,24,2,Semi-Furnished,5,14392037
+LB Nagar,1146,2,3,29,4,1,Unfurnished,9,4694830
+Kompally,1225,2,3,23,17,1,Furnished,4,7368452
+Dilsukhnagar,1074,2,2,11,8,1,Unfurnished,2,6058833
+LB Nagar,2631,5,6,4,21,1,Furnished,2,12859952
+Narsingi,1448,3,3,28,22,2,Semi-Furnished,1,10014312
+Narsingi,1740,3,3,29,18,2,Semi-Furnished,2,10388883
+Uppal,1235,2,2,21,16,2,Furnished,8,6083948
+Kondapur,1693,3,3,28,16,0,Semi-Furnished,10,11437301
+Manikonda,1751,3,3,3,15,1,Unfurnished,8,10194970
+Shamshabad,1415,3,3,19,5,1,Semi-Furnished,5,6759435
+Madhapur,2464,4,4,25,21,1,Furnished,8,21611800
+Begumpet,1006,2,2,23,12,1,Semi-Furnished,4,6845783
+Kokapet,490,2,3,7,19,1,Semi-Furnished,5,4102939
+Gachibowli,1706,3,4,29,22,1,Semi-Furnished,5,15834471
+Kondapur,2160,4,4,17,5,1,Furnished,8,14580392
+Jubilee Hills,987,2,3,17,13,1,Semi-Furnished,3,9121865
+Ameerpet,1824,3,3,18,15,2,Unfurnished,2,10754039
+LB Nagar,1917,4,4,2,4,1,Semi-Furnished,8,9112905
+Financial District,730,2,2,14,22,1,Semi-Furnished,1,7071934
+Uppal,1571,3,3,23,23,1,Furnished,6,7361973
+Banjara Hills,2224,4,4,6,22,2,Semi-Furnished,10,20836540
+Gachibowli,1802,4,5,27,23,1,Furnished,5,16096272
+Miyapur,1040,2,3,7,6,1,Unfurnished,5,5916552
+Jubilee Hills,1556,3,3,13,20,1,Furnished,2,15152167
+Dilsukhnagar,1672,3,3,14,9,2,Unfurnished,8,10098021
+Gachibowli,1516,3,4,18,8,2,Semi-Furnished,10,13191511
+Shamshabad,1035,2,2,26,7,1,Semi-Furnished,3,4648045
+Kompally,3137,5,6,4,8,1,Furnished,6,15357795
+Madhapur,821,2,2,8,14,0,Semi-Furnished,2,8067526
+Dilsukhnagar,1854,3,3,11,7,2,Semi-Furnished,1,10339315
+Ameerpet,1479,3,3,8,23,1,Furnished,5,9170728
+Shamshabad,1892,3,3,1,13,0,Semi-Furnished,7,9428434
+Ameerpet,1683,3,3,27,7,1,Semi-Furnished,1,10754172
+Banjara Hills,1464,3,4,27,16,1,Semi-Furnished,5,12162024
+Kondapur,1152,1,2,24,14,0,Unfurnished,1,7645005
+Secunderabad,1712,3,3,6,20,1,Semi-Furnished,8,13757140
+Banjara Hills,903,2,2,12,19,1,Furnished,4,8126868
+Shamshabad,1111,2,2,28,6,1,Unfurnished,7,4735788
+Kukatpally,1779,4,5,12,12,1,Unfurnished,8,14304969
+Dilsukhnagar,1555,2,2,26,14,1,Semi-Furnished,4,7848176
+Begumpet,1796,3,3,15,10,1,Unfurnished,9,12882147
+Financial District,1283,2,2,12,6,1,Semi-Furnished,8,12868468
+Narsingi,1614,3,4,13,15,1,Furnished,1,10905624
+Kokapet,2134,4,4,5,5,1,Furnished,10,16278528
+Dilsukhnagar,1024,2,2,15,11,2,Semi-Furnished,6,5864008
+Dilsukhnagar,1562,3,3,29,4,2,Furnished,10,8228025
+Shamshabad,1658,3,4,27,5,1,Semi-Furnished,9,7924070
+Manikonda,1806,3,4,13,6,1,Furnished,6,9857387
+Miyapur,1540,3,3,25,16,0,Semi-Furnished,8,8738567
+Kukatpally,1247,2,3,16,11,1,Furnished,10,8631054
+Gachibowli,2046,4,4,26,16,2,Semi-Furnished,10,18267025
+Ameerpet,1730,3,4,4,16,1,Semi-Furnished,5,10420573
+Miyapur,1642,3,3,17,19,1,Semi-Furnished,1,8556177
+Narsingi,1373,3,3,3,20,1,Semi-Furnished,9,10059183
+Kukatpally,1045,2,3,11,2,2,Furnished,9,8030618
+LB Nagar,2278,4,5,28,12,1,Unfurnished,9,10323068
+Ameerpet,1764,3,4,6,12,2,Semi-Furnished,3,10420758
+Kukatpally,1831,3,4,23,5,0,Unfurnished,7,12448046
+Financial District,2105,3,4,25,5,2,Furnished,7,17657077
+Secunderabad,866,2,2,27,10,1,Semi-Furnished,4,5957265
+Banjara Hills,373,1,2,22,13,2,Furnished,5,4156320
+Narsingi,870,2,2,3,5,1,Semi-Furnished,5,6660793
+Kukatpally,642,1,1,19,7,1,Furnished,1,4660488
+Jubilee Hills,1466,3,3,26,12,0,Unfurnished,9,13938701
+Uppal,1187,2,2,15,13,0,Furnished,1,5714450
+Miyapur,1881,3,3,24,1,1,Unfurnished,6,9872119
+Hitech City,2272,4,4,12,4,0,Unfurnished,6,20340410
+Secunderabad,1456,2,2,15,5,1,Semi-Furnished,10,10227246
+Banjara Hills,2320,4,4,9,17,1,Semi-Furnished,4,21791829
+Banjara Hills,2184,4,5,22,8,1,Semi-Furnished,3,18244717
+Ameerpet,1530,3,4,19,9,1,Furnished,2,8131967
+Kukatpally,802,2,2,19,1,1,Unfurnished,10,4983365
+Kondapur,705,2,2,19,22,1,Unfurnished,6,4858843
+Shamshabad,1318,2,2,4,10,0,Unfurnished,8,5847056
+LB Nagar,1522,2,2,16,10,2,Semi-Furnished,5,7079074
+Narsingi,671,1,1,19,9,2,Unfurnished,10,4154241
+Begumpet,1874,3,4,1,16,1,Semi-Furnished,4,13100513
+Secunderabad,1520,3,4,18,3,1,Semi-Furnished,9,11360022
+Secunderabad,1745,3,3,14,6,1,Semi-Furnished,3,11568032
+Kondapur,2215,4,5,21,7,0,Furnished,4,15062228
+Kokapet,639,1,1,12,24,1,Furnished,8,4845245
+Jubilee Hills,1215,2,3,6,9,2,Semi-Furnished,3,11917479
+Kondapur,992,2,2,22,11,1,Furnished,7,7137128
+Jubilee Hills,2595,5,5,5,4,1,Furnished,10,22822514
+Uppal,1469,3,4,20,3,1,Unfurnished,3,6080015
+Miyapur,1259,2,2,6,17,1,Semi-Furnished,4,6705446
+Shamshabad,2281,4,5,1,6,2,Semi-Furnished,1,10985871
+LB Nagar,974,2,2,16,1,0,Unfurnished,10,4244684
+Gachibowli,1700,3,4,17,4,0,Unfurnished,4,15757355
+Manikonda,1736,3,3,22,11,1,Furnished,6,10472212
+Madhapur,886,2,2,0,20,1,Furnished,5,8777767
+Dilsukhnagar,2120,4,5,26,10,1,Furnished,5,11440306
+Kokapet,1028,2,2,3,5,0,Unfurnished,7,6755653
+Narsingi,1654,3,4,15,24,2,Semi-Furnished,10,11411498
+Financial District,2328,4,4,24,1,1,Unfurnished,3,18837956
+Secunderabad,1281,2,3,8,15,1,Unfurnished,8,8951874
+Kondapur,2123,4,4,9,14,2,Unfurnished,1,13137455
+Manikonda,1023,3,4,19,14,2,Semi-Furnished,10,7062623
+Miyapur,300,1,1,18,7,0,Semi-Furnished,3,1656997
+Dilsukhnagar,1183,2,2,29,20,0,Unfurnished,4,6340489
+Gachibowli,1805,3,3,11,7,0,Furnished,5,17217766
+Shamshabad,1629,3,4,11,8,1,Semi-Furnished,6,7459928
+Begumpet,704,2,2,20,1,1,Semi-Furnished,10,5082646
+Secunderabad,2217,4,5,16,23,1,Unfurnished,2,14877247
+Narsingi,1773,3,3,20,16,1,Furnished,3,10931960
+Banjara Hills,2706,5,6,22,13,2,Furnished,7,25722348
+Kompally,1074,2,3,21,11,1,Semi-Furnished,9,6053474
+Shamshabad,2233,4,4,7,24,2,Furnished,7,10034721
+Kondapur,1604,3,3,13,3,1,Semi-Furnished,3,11135475
+Begumpet,1200,2,3,24,23,1,Semi-Furnished,5,8757279
+Dilsukhnagar,1959,3,3,26,20,0,Furnished,3,11486709
+Shamshabad,1261,2,3,12,7,1,Unfurnished,4,5519344
+Banjara Hills,428,1,1,29,8,1,Furnished,2,3952777
+Dilsukhnagar,1220,2,3,10,8,1,Furnished,9,6852441
+Gachibowli,1637,3,3,7,4,1,Furnished,7,13652936
+Secunderabad,1525,3,3,0,24,2,Semi-Furnished,8,12038925
+Kompally,1406,3,3,2,22,1,Semi-Furnished,4,8606764
+Uppal,1159,2,2,0,16,1,Unfurnished,4,5135699
+Kompally,1666,3,3,10,21,1,Unfurnished,9,9447842
+Shamshabad,2184,4,4,4,17,1,Unfurnished,6,10034705
+Miyapur,1070,2,3,8,9,1,Furnished,5,5918888
+Gachibowli,1829,3,3,3,14,0,Semi-Furnished,7,16419333
+LB Nagar,1053,2,2,29,0,0,Unfurnished,2,4302632
+Ameerpet,2460,4,5,22,21,1,Furnished,9,16519422
+Kukatpally,1573,3,4,19,1,2,Semi-Furnished,8,12627145
+Madhapur,1859,3,3,27,20,2,Unfurnished,3,14759375
+Ameerpet,1300,2,3,5,17,1,Semi-Furnished,9,7508004
+Madhapur,2418,4,4,25,18,1,Furnished,8,20700865
+Kokapet,1002,2,2,28,3,1,Furnished,2,6335547
+Narsingi,1159,2,3,0,15,2,Semi-Furnished,9,8692179
+Kondapur,2170,4,5,25,6,1,Unfurnished,9,15385655
+Financial District,756,2,2,25,6,1,Unfurnished,8,6006281
+Madhapur,1442,2,3,19,6,2,Furnished,10,13524664
+Secunderabad,1802,3,3,0,6,0,Semi-Furnished,9,11426372
+Gachibowli,1973,3,3,4,5,0,Semi-Furnished,10,18425433
+Banjara Hills,2156,4,5,21,10,1,Semi-Furnished,4,19389912
+Kompally,2618,5,6,0,21,1,Semi-Furnished,6,16563491
+Kondapur,658,2,2,4,3,1,Unfurnished,10,5016620
+Manikonda,1401,2,3,0,14,1,Unfurnished,1,7924510
+Kondapur,746,2,2,14,23,2,Semi-Furnished,6,5936825
+Banjara Hills,1196,3,3,1,8,1,Semi-Furnished,4,10995866
+Narsingi,1823,3,3,17,3,1,Unfurnished,10,11818539
+Kompally,2215,4,4,1,0,1,Furnished,1,13282854
+Kompally,1239,2,2,26,11,1,Unfurnished,9,6414042
+LB Nagar,1357,2,2,22,16,1,Unfurnished,9,5976703
+Madhapur,1615,3,4,16,2,1,Semi-Furnished,10,14831002
+Hitech City,1847,3,3,23,0,1,Semi-Furnished,2,16851335
+Narsingi,1659,3,3,15,15,1,Semi-Furnished,8,12633847
+Ameerpet,1505,3,3,29,19,1,Semi-Furnished,3,8135027
+LB Nagar,1704,3,4,17,10,1,Furnished,1,8510482
+Kukatpally,1682,3,3,27,20,0,Unfurnished,10,12383621
+Madhapur,1444,3,3,21,21,1,Semi-Furnished,4,13113686
+Gachibowli,2458,5,5,22,12,1,Furnished,5,24341222
+Shamshabad,1471,3,3,4,3,1,Semi-Furnished,3,7259836
+Hitech City,1454,3,4,20,11,2,Semi-Furnished,3,13551705
+Banjara Hills,496,1,2,17,0,1,Semi-Furnished,5,4885187
+Secunderabad,1119,2,3,8,2,1,Semi-Furnished,7,7666035
+Gachibowli,1621,3,3,13,16,2,Semi-Furnished,1,13014044
+LB Nagar,2303,4,5,0,4,0,Furnished,9,11678876
+Manikonda,1619,3,3,17,19,1,Semi-Furnished,7,10001962
+LB Nagar,1751,3,4,2,6,1,Semi-Furnished,7,8368295
+Kokapet,1322,2,3,28,7,1,Semi-Furnished,5,8978902
+Banjara Hills,1242,2,3,6,21,2,Semi-Furnished,8,10861848
+Shamshabad,677,2,2,9,11,1,Furnished,3,3716644
+Secunderabad,1458,3,4,8,12,1,Unfurnished,5,11029884
+Financial District,2093,4,4,20,6,1,Furnished,5,15191296
+Secunderabad,1012,2,3,8,9,2,Semi-Furnished,9,8384984
+Madhapur,2233,4,5,23,3,2,Semi-Furnished,5,18537993
+LB Nagar,1731,3,3,23,13,1,Unfurnished,1,6756499
+Dilsukhnagar,1289,2,3,1,18,2,Semi-Furnished,1,7435990
+Begumpet,1561,2,2,0,15,1,Semi-Furnished,9,11203392
+Secunderabad,1387,3,3,28,0,0,Unfurnished,7,8910255
+Kondapur,1450,3,4,20,0,2,Furnished,7,10924796
+Manikonda,2284,4,5,20,15,2,Semi-Furnished,4,14072870
+Manikonda,973,2,3,2,2,1,Semi-Furnished,8,6230016
+Dilsukhnagar,1137,2,2,12,16,1,Furnished,5,6554845
+Uppal,2389,4,5,12,15,0,Semi-Furnished,5,10979134
+Narsingi,1822,3,3,23,17,1,Unfurnished,8,11217990
+Banjara Hills,2144,4,5,26,6,1,Furnished,5,21304727
+Narsingi,1040,2,3,12,12,1,Semi-Furnished,8,8221450
+Ameerpet,2757,5,5,4,12,1,Furnished,3,16890173
+Kukatpally,1648,3,3,17,10,1,Semi-Furnished,8,12834633
+Banjara Hills,1447,3,4,10,18,2,Furnished,1,13639588
+Shamshabad,1662,3,3,7,3,2,Semi-Furnished,6,7673436
+Hitech City,1595,3,3,22,13,1,Unfurnished,5,13281201
+Madhapur,2206,4,4,18,0,0,Semi-Furnished,2,19430732
+Miyapur,1034,2,2,27,7,1,Furnished,9,6738141
+Jubilee Hills,982,2,3,15,11,1,Semi-Furnished,8,9129842
+Financial District,1756,3,3,1,9,1,Unfurnished,9,15067934
+Hitech City,1264,2,2,21,24,2,Furnished,4,10923889
+Manikonda,1956,3,3,24,6,1,Unfurnished,7,10153941
+Financial District,1473,2,3,0,15,2,Unfurnished,10,13513523
+Financial District,1795,3,4,5,7,1,Semi-Furnished,8,16107229
+Kukatpally,1915,3,3,27,0,1,Semi-Furnished,4,14612739
+Secunderabad,452,1,2,29,0,0,Unfurnished,9,2689814
+Begumpet,1163,2,2,29,17,1,Unfurnished,9,7587754
+Kukatpally,803,2,2,4,1,2,Furnished,2,6196505
+Narsingi,1877,3,4,11,2,1,Semi-Furnished,4,13298841
+Manikonda,1167,2,2,14,0,1,Furnished,1,6671311
+Uppal,1522,3,3,23,14,2,Unfurnished,6,7011784
+Manikonda,614,1,2,6,14,2,Semi-Furnished,5,3877066
+Jubilee Hills,1809,3,3,22,15,0,Semi-Furnished,9,16130547
+Madhapur,1707,3,3,8,6,1,Furnished,7,15493372
+Secunderabad,806,2,3,24,19,1,Semi-Furnished,10,5865970
+Narsingi,2000,3,3,14,10,2,Semi-Furnished,1,13873151
+Secunderabad,1069,2,2,6,5,1,Unfurnished,4,8392892
+Gachibowli,1815,3,3,11,0,2,Unfurnished,9,15418436
+Kompally,2104,4,5,6,0,1,Furnished,10,13902835
+LB Nagar,1366,2,2,21,19,1,Semi-Furnished,3,6414119
+Banjara Hills,918,2,3,27,23,0,Semi-Furnished,3,8588956
+LB Nagar,1204,3,3,9,21,2,Unfurnished,1,5687708
+Dilsukhnagar,2875,5,6,1,3,1,Unfurnished,8,17648583
+Madhapur,2393,4,4,29,10,0,Furnished,8,21514052
+Shamshabad,2927,5,6,18,4,2,Semi-Furnished,3,14496805
+Ameerpet,2143,4,4,12,14,2,Semi-Furnished,3,12394628
+Miyapur,1283,2,2,28,21,1,Unfurnished,6,6741978
+Dilsukhnagar,1672,3,3,18,3,1,Semi-Furnished,9,9786674
+Kokapet,1675,3,3,23,19,2,Unfurnished,8,12217362
+Jubilee Hills,1952,4,4,21,22,1,Furnished,6,18247725
+Begumpet,1492,3,3,9,8,1,Semi-Furnished,5,9941095
+Shamshabad,992,2,2,17,18,1,Unfurnished,5,4812348
+Uppal,2229,4,4,6,16,1,Furnished,10,11724018
+Kompally,975,2,3,0,7,1,Semi-Furnished,3,6393971
+Dilsukhnagar,1429,3,4,4,24,1,Furnished,4,8763496
+Shamshabad,1547,3,3,22,1,1,Semi-Furnished,2,7034867
+Secunderabad,738,2,3,28,24,1,Unfurnished,9,5640723
+Kokapet,1179,2,3,5,9,1,Unfurnished,4,8479714
+Madhapur,1064,2,2,27,0,1,Furnished,9,9930812
+Miyapur,2734,5,6,3,1,1,Semi-Furnished,10,16490628
+Manikonda,1786,4,4,1,6,1,Furnished,6,10852842
+Manikonda,1166,2,3,24,12,1,Furnished,4,6480438
+Financial District,1436,3,3,19,21,0,Semi-Furnished,9,14876242
+Begumpet,2109,4,4,29,16,1,Unfurnished,8,14341234
+Kompally,1214,2,2,3,5,1,Furnished,5,7082206
+Financial District,634,2,2,6,21,0,Semi-Furnished,3,5954010
+Banjara Hills,1820,4,5,27,24,1,Unfurnished,3,15794902
+Ameerpet,396,1,1,6,16,2,Semi-Furnished,10,2955087
+Madhapur,1546,3,3,15,7,1,Unfurnished,8,12591195
+Manikonda,1231,2,2,12,9,1,Unfurnished,1,6744368
+Jubilee Hills,2257,4,5,15,19,1,Semi-Furnished,5,20659529
+Begumpet,2100,4,5,14,0,1,Semi-Furnished,6,14205110
+Madhapur,300,1,1,29,20,1,Furnished,4,2944102
+Kokapet,799,1,1,29,21,1,Semi-Furnished,5,5658633
+Kondapur,670,1,1,29,17,1,Unfurnished,10,4604399
+Manikonda,1353,2,3,23,11,0,Furnished,10,8092367
+Kukatpally,1645,3,3,28,9,2,Semi-Furnished,10,12449705
+Financial District,313,1,1,23,8,0,Semi-Furnished,6,2784593
+Kokapet,2256,4,4,11,20,2,Semi-Furnished,8,16835902
+Kondapur,1454,3,4,12,6,1,Semi-Furnished,6,10897408
+Kompally,1248,2,2,22,9,2,Semi-Furnished,10,7513635
+Kokapet,2059,4,5,25,11,0,Unfurnished,9,13970832
+Miyapur,1778,3,4,23,11,1,Furnished,6,9633013
+Kondapur,2161,4,4,7,23,1,Semi-Furnished,9,16989919
+Ameerpet,1223,2,2,1,11,1,Furnished,4,7769668
+Secunderabad,1557,3,4,8,20,1,Semi-Furnished,9,12179494
+Manikonda,1418,2,2,5,8,2,Semi-Furnished,6,8460836
+Financial District,1393,2,2,2,17,1,Unfurnished,8,12061946
+Gachibowli,1271,2,2,22,11,2,Semi-Furnished,6,10048850
+Dilsukhnagar,1769,3,3,12,5,2,Semi-Furnished,3,10145146
+Secunderabad,831,2,2,15,4,1,Furnished,10,6070052
+Uppal,1174,3,3,0,3,2,Semi-Furnished,7,6202621
+Shamshabad,2302,4,4,4,19,1,Unfurnished,6,10202099
+Hitech City,559,2,3,12,2,1,Semi-Furnished,4,5320536
+Kompally,1112,2,3,9,11,1,Semi-Furnished,8,6502283
+Manikonda,950,2,3,18,22,2,Furnished,9,6335851
+Gachibowli,2370,4,4,7,16,1,Semi-Furnished,5,22504187
+Kukatpally,1288,2,3,21,0,2,Unfurnished,6,9428662
+LB Nagar,1131,2,3,11,4,0,Semi-Furnished,10,5492312
+Dilsukhnagar,1018,2,3,1,3,1,Unfurnished,1,6240370
+Secunderabad,2337,4,4,21,5,0,Semi-Furnished,6,16184128
+Narsingi,1299,2,3,4,11,1,Furnished,2,10274443
+Gachibowli,1206,3,4,20,4,1,Semi-Furnished,8,9988199
+Secunderabad,1719,3,3,14,20,1,Semi-Furnished,5,12249380
+Begumpet,1084,2,2,11,0,1,Semi-Furnished,8,8258895
+Ameerpet,1751,3,3,22,11,1,Furnished,1,10270737
+Kompally,1679,3,4,26,22,2,Unfurnished,9,9189619
+Shamshabad,1307,3,3,15,8,1,Unfurnished,2,5737599
+Uppal,2009,4,4,4,8,0,Unfurnished,3,9422648
+Gachibowli,1811,4,4,22,1,2,Semi-Furnished,3,13691227
+Financial District,1433,2,3,12,10,1,Semi-Furnished,6,13595444
+Banjara Hills,1793,3,3,9,7,1,Semi-Furnished,9,16452857
+Begumpet,2150,4,4,7,5,2,Unfurnished,5,14824857
+Banjara Hills,2287,4,4,24,6,1,Semi-Furnished,10,20615359
+Banjara Hills,1698,3,4,18,9,1,Furnished,10,16644369
+LB Nagar,1609,3,3,23,4,2,Semi-Furnished,10,8748795
+Dilsukhnagar,1649,3,4,1,1,1,Semi-Furnished,4,10105106
+Manikonda,2846,5,5,17,13,0,Unfurnished,4,14802207
+Jubilee Hills,1067,1,1,16,18,1,Unfurnished,1,9033046
+Kokapet,1633,3,3,1,0,1,Semi-Furnished,2,11575094
+Begumpet,325,1,1,8,9,1,Furnished,1,2435832
+Dilsukhnagar,1497,3,4,7,4,2,Unfurnished,10,8962456
+Manikonda,1667,3,4,28,4,2,Furnished,8,10412935
+Jubilee Hills,1181,2,2,24,16,1,Semi-Furnished,8,10822132
+Begumpet,1137,2,2,27,1,0,Unfurnished,5,7316013
+Kompally,1523,3,3,18,11,1,Unfurnished,3,8430370
+Kondapur,851,2,2,21,16,1,Furnished,10,6671838
+Gachibowli,1091,2,2,14,20,2,Unfurnished,4,8884790
+Ameerpet,2146,4,5,16,14,1,Unfurnished,6,11481985
+Dilsukhnagar,1496,3,4,13,7,2,Semi-Furnished,4,8685681
+Shamshabad,882,2,3,20,9,1,Unfurnished,10,4761483
+Kondapur,2457,5,5,19,15,0,Semi-Furnished,2,18384869
+Banjara Hills,674,2,3,6,17,1,Furnished,4,6817881
+Uppal,2149,4,4,15,6,2,Semi-Furnished,1,9604648
+Banjara Hills,1851,3,3,2,6,0,Furnished,8,14909192
+Miyapur,1286,3,3,28,5,2,Semi-Furnished,3,6682084
+Dilsukhnagar,1783,3,3,22,12,1,Furnished,1,10815341
+Secunderabad,1749,3,4,3,17,1,Semi-Furnished,9,12560247
+Begumpet,1986,4,4,22,4,0,Semi-Furnished,9,13746357
+Kukatpally,1216,2,3,10,13,2,Unfurnished,7,9041458
+Kokapet,2144,4,4,12,13,1,Semi-Furnished,1,14430000
+Banjara Hills,1322,2,3,11,24,1,Unfurnished,4,12405811
+Jubilee Hills,1257,2,3,8,7,1,Unfurnished,7,10118023
+Dilsukhnagar,1791,3,4,18,15,1,Semi-Furnished,8,10825357
+Dilsukhnagar,1824,3,4,13,5,1,Unfurnished,1,10574750
+Dilsukhnagar,1538,3,3,4,24,2,Unfurnished,1,9115416
+Uppal,1088,2,2,3,6,1,Semi-Furnished,2,5317442
+Shamshabad,785,2,3,14,3,1,Furnished,6,3921578
+Miyapur,757,2,2,29,22,0,Semi-Furnished,5,4353016
+Hitech City,423,1,1,21,14,1,Semi-Furnished,10,3712208
+Narsingi,1507,3,4,16,3,1,Unfurnished,4,10508834
+Banjara Hills,1825,3,3,27,12,2,Semi-Furnished,10,17352092
+Ameerpet,1819,3,3,17,20,1,Unfurnished,3,10443371
+Hitech City,1397,3,3,16,7,1,Furnished,5,12746041
+Kokapet,2049,3,4,16,15,1,Semi-Furnished,5,13465208
+Banjara Hills,1055,2,2,26,5,2,Unfurnished,7,9018130
+Begumpet,713,2,3,9,24,1,Furnished,7,5916003
+Manikonda,1469,3,3,8,19,1,Semi-Furnished,6,9557473
+Narsingi,1282,3,4,15,11,1,Semi-Furnished,5,8348987
+Hitech City,2614,5,6,21,13,2,Unfurnished,5,22511030
+Kokapet,2333,4,5,14,20,2,Semi-Furnished,8,15006441
+Kukatpally,2161,4,4,1,16,2,Semi-Furnished,6,16298528
+Financial District,1787,3,4,0,24,1,Semi-Furnished,2,16980735
+Gachibowli,2142,4,4,4,18,1,Semi-Furnished,2,18014323
+Begumpet,1572,3,3,26,22,1,Furnished,6,11690825
+Gachibowli,1215,2,2,12,0,1,Semi-Furnished,7,10669512
+Kokapet,1253,3,3,15,23,1,Furnished,8,9246769
+Dilsukhnagar,1298,2,2,0,5,2,Semi-Furnished,10,7909335
+Shamshabad,1321,2,2,9,13,1,Furnished,7,6960298
+Kokapet,2211,4,4,9,4,0,Unfurnished,6,15940001
+Gachibowli,1529,3,3,1,9,2,Semi-Furnished,10,14680199
+Kompally,1811,3,4,17,13,2,Semi-Furnished,3,10300773
+Begumpet,2013,4,4,6,13,2,Unfurnished,1,13401854
+Kondapur,1785,3,3,12,15,0,Unfurnished,9,12516999
+Narsingi,1626,3,3,19,9,2,Furnished,8,12702921
+Dilsukhnagar,1122,3,3,14,6,1,Furnished,3,6964667
+Narsingi,1303,2,2,11,21,2,Furnished,3,10022279
+Financial District,724,1,1,7,21,1,Unfurnished,3,6529265
+Hitech City,1830,3,3,11,8,1,Unfurnished,4,15744359
+Manikonda,1175,2,3,27,20,1,Unfurnished,6,6070255
+Gachibowli,1588,3,3,28,13,1,Semi-Furnished,8,12601155
+Kompally,870,2,3,18,24,1,Unfurnished,3,4830364
+Begumpet,1641,3,4,4,4,1,Unfurnished,10,11730206
+Miyapur,1943,3,4,8,3,1,Semi-Furnished,4,10612677
+Madhapur,2287,4,4,15,9,2,Semi-Furnished,4,20767425
+Dilsukhnagar,2143,3,4,15,14,1,Semi-Furnished,6,11377170
+Madhapur,1486,3,3,23,4,1,Furnished,2,12174259
+Dilsukhnagar,2030,4,4,10,0,1,Semi-Furnished,5,10795307
+Ameerpet,2462,4,4,17,21,1,Furnished,3,14901897
+Narsingi,2516,5,6,0,10,1,Unfurnished,5,16326368
+Kondapur,1983,3,3,10,3,1,Furnished,9,14855905
+Gachibowli,1214,2,3,20,21,2,Unfurnished,10,11149921
+Miyapur,2136,4,4,7,16,1,Unfurnished,9,12636109
+Madhapur,1530,3,3,9,15,1,Furnished,8,14772165
+LB Nagar,2586,4,4,26,17,0,Unfurnished,3,11551655
+Secunderabad,1860,3,3,7,15,1,Semi-Furnished,7,13362664
+Kondapur,1369,3,3,29,21,1,Semi-Furnished,3,9983338
+Begumpet,1047,2,3,22,5,0,Semi-Furnished,4,7114200
+Narsingi,1155,2,2,1,15,1,Furnished,7,9288318
+Kondapur,1295,2,3,19,1,1,Furnished,9,10484009
+Ameerpet,3096,5,5,27,21,1,Semi-Furnished,6,17980640
+Jubilee Hills,1901,3,3,17,20,1,Furnished,8,19180780
+Miyapur,978,2,2,9,24,2,Semi-Furnished,1,5956242
+Kokapet,1630,3,3,3,16,2,Furnished,4,13444519
+Kondapur,2033,3,3,29,0,1,Furnished,5,13604888
+Manikonda,1945,3,3,2,23,1,Unfurnished,3,10530271
+Kompally,497,1,1,19,23,1,Unfurnished,5,2707503
+Narsingi,1995,3,3,15,13,2,Semi-Furnished,6,14135086
+Kompally,939,2,3,10,12,1,Semi-Furnished,1,5473858
+Narsingi,831,2,2,21,19,1,Semi-Furnished,7,6366832
+LB Nagar,2403,4,4,15,0,1,Semi-Furnished,9,10618203
+Kukatpally,964,2,2,27,11,1,Unfurnished,5,6069060
+Begumpet,1999,4,4,17,1,1,Semi-Furnished,4,14995943
+Begumpet,1718,3,3,29,11,0,Semi-Furnished,4,12892041
+Miyapur,1779,3,3,21,21,1,Unfurnished,10,9434702
+Gachibowli,871,2,2,20,12,2,Furnished,8,8332533
+Hitech City,1432,3,4,15,17,1,Unfurnished,10,12922300
+Begumpet,1337,2,2,17,3,1,Unfurnished,10,9542838
+Miyapur,1729,3,3,24,23,1,Semi-Furnished,3,9819805
+Manikonda,2471,4,4,15,21,1,Furnished,8,14656856
+Financial District,2301,4,5,9,2,2,Furnished,10,20613361
+Financial District,2314,4,5,1,11,1,Unfurnished,7,19367048
+Gachibowli,1521,3,3,7,11,1,Unfurnished,5,12813328
+Kompally,2420,4,4,20,8,1,Unfurnished,9,13871747
+Narsingi,1792,3,3,28,18,1,Semi-Furnished,10,11714816
+Hitech City,1652,3,4,17,22,1,Unfurnished,4,13878565
+LB Nagar,2444,5,5,0,23,2,Semi-Furnished,2,11405183
+Uppal,1801,3,3,10,0,2,Furnished,5,8152422
+Shamshabad,1444,3,4,13,11,1,Semi-Furnished,2,6594621
+Secunderabad,1636,3,3,5,20,1,Unfurnished,9,10958552
+Ameerpet,2504,4,4,7,13,1,Semi-Furnished,8,14543909
+Madhapur,1244,2,2,29,4,1,Semi-Furnished,7,10341777
+Ameerpet,323,1,1,9,21,1,Semi-Furnished,9,2616887
+Kukatpally,2431,4,5,2,3,2,Unfurnished,1,16380615
+Narsingi,1050,2,2,22,5,2,Unfurnished,8,7410255
+Kokapet,2312,4,4,6,17,1,Furnished,5,15707214
+Hitech City,1724,3,3,27,17,2,Unfurnished,8,15158610
+Banjara Hills,481,1,1,12,8,1,Semi-Furnished,1,4365156
+Kondapur,1523,3,4,3,17,1,Semi-Furnished,10,11793966
+Gachibowli,1654,3,4,3,23,2,Unfurnished,10,15515840
+Kondapur,1218,3,3,3,14,1,Furnished,6,9065521
+Manikonda,2788,5,6,24,15,1,Unfurnished,7,16526440
+Banjara Hills,1533,3,4,15,18,2,Semi-Furnished,10,15075640
+Dilsukhnagar,2243,4,5,24,17,0,Furnished,10,12417396
+Dilsukhnagar,1485,3,4,7,12,1,Semi-Furnished,9,9007297
+Banjara Hills,1375,3,4,6,12,1,Furnished,10,13985551
+Kokapet,1542,3,3,22,24,1,Furnished,8,10714988
+Jubilee Hills,1750,3,4,15,7,1,Semi-Furnished,4,15528208
+Kukatpally,1010,2,2,17,17,1,Unfurnished,10,7291059
+Secunderabad,991,2,3,13,18,1,Furnished,6,8285984
+Gachibowli,2328,4,4,5,7,1,Semi-Furnished,2,20279682
+Uppal,1087,2,2,12,20,0,Semi-Furnished,9,5098089
+Gachibowli,1860,3,4,3,11,1,Furnished,2,17633087
+Kompally,1993,4,5,23,23,1,Unfurnished,8,11793194
+Hitech City,1217,2,2,25,18,1,Unfurnished,8,8711895
+Shamshabad,1216,2,3,18,12,2,Furnished,10,6353554
+Jubilee Hills,676,1,1,1,13,1,Unfurnished,2,6692406
+Kompally,1087,2,2,20,21,2,Semi-Furnished,4,5860755
+Shamshabad,1674,3,3,2,14,1,Unfurnished,7,8144770
+Gachibowli,1062,2,2,16,13,2,Furnished,5,9960351
+Miyapur,1732,3,4,18,11,0,Furnished,6,9963190
+Hitech City,1668,3,3,23,21,1,Semi-Furnished,10,14514189
+Miyapur,1988,4,4,11,21,1,Semi-Furnished,2,12243917
+LB Nagar,2069,4,5,19,12,0,Furnished,1,8938759
+Gachibowli,895,2,3,28,2,0,Semi-Furnished,9,7738237
+Manikonda,2414,4,5,3,1,1,Unfurnished,6,11259658
+Jubilee Hills,2079,4,4,17,7,1,Semi-Furnished,6,18762007
+Shamshabad,2301,4,4,13,3,2,Unfurnished,4,11032198
+Jubilee Hills,1661,3,3,24,14,1,Furnished,6,15087380
+Uppal,300,1,2,27,11,2,Furnished,1,1789828
+Begumpet,1148,2,2,22,1,1,Semi-Furnished,6,7064473
+Shamshabad,697,2,2,0,13,1,Unfurnished,7,3776892
+Kompally,1490,3,3,7,1,1,Furnished,8,9203749
+Ameerpet,1341,2,3,5,8,1,Furnished,8,8266137
+Secunderabad,2116,3,3,23,19,1,Unfurnished,7,14170823
+LB Nagar,1978,3,4,13,17,1,Furnished,4,8573457
+Kokapet,414,2,2,27,20,1,Semi-Furnished,3,2745648
+Narsingi,1192,2,2,18,15,1,Unfurnished,1,8269894
+Shamshabad,1628,3,3,18,8,1,Unfurnished,3,7588599
+Kompally,2482,4,4,18,15,1,Semi-Furnished,7,14718747
+Miyapur,842,2,2,20,15,1,Semi-Furnished,4,4834267
+Manikonda,1813,3,4,10,2,1,Furnished,5,10068033
+Shamshabad,1145,2,3,5,14,1,Semi-Furnished,7,5750144
+Madhapur,1441,3,3,9,2,1,Furnished,8,14103094
+Jubilee Hills,1526,3,4,19,20,1,Furnished,3,13190700
+Madhapur,2557,5,5,24,6,1,Unfurnished,4,19706948
+Financial District,1188,2,3,12,8,0,Semi-Furnished,1,10108007
+Dilsukhnagar,1656,3,4,21,13,2,Unfurnished,4,9248296
+LB Nagar,1642,3,4,8,11,1,Semi-Furnished,10,7680894
+Financial District,2742,5,5,19,16,2,Semi-Furnished,10,25586545
+Kompally,1488,3,4,19,13,1,Semi-Furnished,6,8928781
+Ameerpet,1183,2,3,3,16,1,Unfurnished,7,7100641
+Kompally,2375,4,5,17,18,1,Furnished,10,13181367
+Dilsukhnagar,2806,5,5,1,7,1,Semi-Furnished,7,18110226
+LB Nagar,1523,3,3,25,0,1,Semi-Furnished,5,6416613
+Kokapet,1702,3,3,14,11,2,Unfurnished,6,11532910
+Dilsukhnagar,1686,3,4,29,24,1,Furnished,2,9080376
+Manikonda,1296,3,4,3,0,1,Unfurnished,8,9193793
+Gachibowli,1533,3,4,6,23,0,Furnished,1,14469503
+Banjara Hills,839,2,2,15,20,1,Furnished,9,7503422
+Kompally,998,2,2,3,18,2,Furnished,10,6805534
+Manikonda,1563,3,3,11,22,2,Semi-Furnished,2,8812011
+Miyapur,2000,4,5,7,23,1,Unfurnished,6,10579674
+Dilsukhnagar,1412,3,3,17,22,1,Unfurnished,8,8995454
+Kompally,2016,4,4,12,1,1,Unfurnished,4,10935218
+Madhapur,769,2,2,8,5,1,Semi-Furnished,7,7658014
+Kokapet,1898,3,3,26,6,1,Unfurnished,10,13514901
+Madhapur,1555,3,3,6,24,1,Semi-Furnished,9,13707002
+Kokapet,1579,3,3,9,1,1,Unfurnished,6,11549250
+Secunderabad,1021,2,2,7,6,1,Semi-Furnished,8,7527086
+Kompally,1082,2,2,29,14,2,Semi-Furnished,3,5804914
+Narsingi,931,2,2,22,10,0,Semi-Furnished,8,6830616
+Miyapur,1973,4,5,19,16,1,Unfurnished,10,10822218
+Jubilee Hills,1855,3,3,23,20,1,Semi-Furnished,8,15691331
+Narsingi,1082,2,2,23,8,1,Semi-Furnished,10,8628462
+Miyapur,1693,3,4,29,11,1,Furnished,6,9821092
+Madhapur,2394,4,4,20,16,0,Furnished,7,20334727
+Kondapur,1977,4,5,20,22,1,Unfurnished,7,12923447
+Uppal,1953,3,3,11,22,1,Furnished,2,9465517
+Shamshabad,556,1,1,8,8,1,Semi-Furnished,6,2986328
+Manikonda,826,2,2,3,20,1,Semi-Furnished,6,5322621
+Shamshabad,1048,2,2,11,16,1,Unfurnished,7,5519351
+Madhapur,1635,3,3,12,21,1,Semi-Furnished,2,16558363
+Hitech City,1620,3,3,17,14,2,Semi-Furnished,6,14849835
+Kompally,1039,2,3,8,4,1,Furnished,9,6816155
+Hitech City,2154,4,5,25,7,1,Unfurnished,7,18695020
+Narsingi,2224,4,4,13,14,1,Unfurnished,5,14108274
+Jubilee Hills,1964,3,4,8,3,1,Semi-Furnished,1,16931625
+Miyapur,1302,2,2,11,18,1,Furnished,2,7238523
+Kukatpally,1807,4,5,19,19,1,Unfurnished,10,13773034
+Uppal,1620,3,3,12,8,1,Unfurnished,6,7783986
+Secunderabad,1823,3,3,16,19,1,Semi-Furnished,3,12028686
+Shamshabad,1610,3,4,12,6,1,Furnished,6,7828931
+Jubilee Hills,1522,3,3,21,9,1,Unfurnished,7,13837061
+Dilsukhnagar,514,1,2,29,4,2,Semi-Furnished,3,2811633
+Narsingi,1323,2,3,17,17,2,Unfurnished,9,8933043
+Hitech City,1622,3,3,9,19,2,Semi-Furnished,2,14973518
+Miyapur,1565,3,4,1,22,1,Semi-Furnished,3,9539822
+LB Nagar,2068,4,4,29,19,0,Furnished,8,9125267
+Miyapur,1621,3,4,24,21,1,Semi-Furnished,4,9850241
+Manikonda,1214,2,3,20,20,1,Unfurnished,5,6526627
+Secunderabad,1757,3,3,0,4,1,Semi-Furnished,9,13664703
+Manikonda,1528,3,3,5,14,1,Semi-Furnished,10,8919615
+Uppal,2797,5,5,24,21,0,Unfurnished,4,12576426
+Begumpet,1306,2,3,10,0,1,Semi-Furnished,6,8988751
+Kukatpally,332,1,2,15,10,2,Furnished,2,3255264
+Dilsukhnagar,1402,2,2,10,24,1,Furnished,6,8599961
+Ameerpet,1842,3,3,9,1,1,Semi-Furnished,4,11100715
+Secunderabad,1666,3,3,13,20,0,Furnished,2,12745977
+Uppal,1802,4,4,14,19,0,Semi-Furnished,10,9240314
+Narsingi,1153,2,2,17,17,2,Unfurnished,2,8520352
+Secunderabad,1846,4,4,4,16,2,Semi-Furnished,3,13167599
+Jubilee Hills,1505,3,3,24,17,0,Furnished,8,14970404
+Manikonda,1822,3,4,2,18,2,Semi-Furnished,4,11511326
+LB Nagar,1940,3,3,23,2,1,Unfurnished,4,7434244
+Banjara Hills,2112,4,4,15,11,1,Unfurnished,2,19564391
+Financial District,2841,5,6,19,19,1,Unfurnished,9,27988505
+Dilsukhnagar,1584,3,4,12,13,2,Unfurnished,2,8941904
+Financial District,1592,2,2,13,14,1,Semi-Furnished,2,13809609
+Dilsukhnagar,1529,3,3,3,19,1,Unfurnished,7,9455559
+Jubilee Hills,2503,4,4,10,22,1,Semi-Furnished,3,23646918
+Ameerpet,1201,2,3,24,19,0,Furnished,1,6601802
+Kondapur,1561,3,3,18,4,1,Semi-Furnished,10,11605875
+Kokapet,1561,3,4,21,10,1,Semi-Furnished,10,10285594
+Uppal,1994,4,4,29,8,1,Semi-Furnished,10,9440301
+Miyapur,1886,4,4,5,4,0,Semi-Furnished,4,11261411
+Secunderabad,2223,4,5,6,5,1,Furnished,1,17522659
+Begumpet,1424,3,3,22,2,1,Furnished,4,10191149
+Kokapet,1663,3,3,28,9,0,Furnished,7,12338004
+Hitech City,2669,4,4,0,14,1,Furnished,3,21916187
+Dilsukhnagar,1418,2,2,21,12,2,Semi-Furnished,4,7706887
+Dilsukhnagar,2294,4,4,23,8,1,Semi-Furnished,5,12991513
+Banjara Hills,2352,4,4,0,4,2,Furnished,10,22574591
+Hitech City,1482,3,3,6,16,1,Semi-Furnished,5,13279542
+Kompally,1123,2,2,26,16,1,Furnished,3,5654596
+Jubilee Hills,300,1,1,8,6,1,Furnished,3,3406176
+LB Nagar,1443,3,3,20,7,2,Unfurnished,7,5754377
+Miyapur,1606,3,4,14,2,1,Furnished,8,10590887
+Kondapur,1773,3,4,5,22,1,Semi-Furnished,3,12511120
+Ameerpet,1900,3,3,9,0,0,Semi-Furnished,9,11708103
+Dilsukhnagar,2525,4,5,4,23,1,Unfurnished,3,14630477
+Financial District,481,1,2,25,13,2,Furnished,8,5072238
+Ameerpet,859,2,3,1,23,1,Furnished,6,6042376
+Narsingi,894,2,2,8,11,0,Furnished,9,7045764
+Manikonda,1888,3,3,14,4,2,Unfurnished,4,10365819
+Narsingi,661,2,2,13,16,1,Semi-Furnished,10,5204704
+Kompally,1797,3,3,9,19,1,Unfurnished,9,9188644
+Kompally,1300,2,2,25,7,1,Unfurnished,10,7912632
+Secunderabad,1542,3,4,7,0,1,Semi-Furnished,5,10967138
+Ameerpet,2673,4,4,4,0,2,Furnished,6,15817036
+Manikonda,2647,5,5,16,16,0,Semi-Furnished,3,15713996
+Narsingi,2036,3,3,22,12,2,Unfurnished,7,13891170
+Kompally,1848,3,3,12,2,0,Semi-Furnished,6,10691445
+Kokapet,2176,3,3,18,12,2,Semi-Furnished,5,15148337
+Uppal,2310,4,4,23,6,1,Furnished,1,10562764
+Miyapur,1275,2,2,22,14,1,Unfurnished,5,6306038
+Manikonda,1126,2,2,15,22,1,Semi-Furnished,7,6347506
+Gachibowli,1491,3,4,18,13,2,Unfurnished,8,14033421
+Kukatpally,1382,3,3,20,20,1,Unfurnished,2,9867694
+LB Nagar,625,1,1,0,1,1,Unfurnished,2,2804779
+Miyapur,1187,2,2,20,22,1,Semi-Furnished,8,6601115
+Begumpet,1274,2,3,20,16,2,Furnished,5,10007392
+Secunderabad,2002,4,4,13,13,0,Furnished,4,14181637
+Banjara Hills,912,2,2,26,15,1,Unfurnished,6,7590552
+Manikonda,2145,4,4,21,4,1,Unfurnished,3,11586303
+Miyapur,519,1,1,9,17,0,Unfurnished,3,2953107
+Kompally,1878,4,4,16,7,2,Unfurnished,10,11142841
+Kondapur,1976,3,4,28,11,1,Unfurnished,2,12939628
+Narsingi,1475,3,3,28,3,1,Semi-Furnished,2,10768906
+Financial District,1644,3,3,22,19,1,Semi-Furnished,7,14733995
+Shamshabad,1636,3,4,8,5,0,Furnished,10,8213469
+Kondapur,1554,3,4,25,3,0,Furnished,1,11279786
+Narsingi,1459,2,3,11,20,1,Furnished,1,11517068
+Uppal,1683,3,4,28,3,1,Semi-Furnished,4,7033615
+Secunderabad,2756,5,5,14,1,1,Furnished,6,21047820
+Financial District,1268,2,3,2,12,1,Furnished,2,13252941
+Begumpet,1684,3,3,3,19,1,Semi-Furnished,1,12075458
+Shamshabad,1346,3,3,16,20,1,Semi-Furnished,6,6163419
+Manikonda,1714,3,4,27,12,1,Semi-Furnished,1,9281524
+Kukatpally,2159,4,4,14,13,0,Semi-Furnished,4,14188975
+Gachibowli,1779,3,3,25,20,1,Furnished,5,15887724
+Manikonda,1097,2,2,17,13,1,Semi-Furnished,1,6419644
+Ameerpet,1035,2,2,25,13,2,Semi-Furnished,7,6303266
+Ameerpet,303,1,2,13,2,1,Unfurnished,7,1720925
+Kondapur,2223,4,5,25,7,1,Semi-Furnished,1,14577672
+Narsingi,2962,5,5,3,11,1,Semi-Furnished,8,20590409
+Hitech City,725,2,2,24,15,0,Unfurnished,10,6206579
+Narsingi,1624,3,4,15,22,1,Unfurnished,5,12276314
+Shamshabad,795,2,3,25,21,0,Unfurnished,10,3533156
+Gachibowli,1673,3,3,6,16,0,Unfurnished,3,14838806
+Gachibowli,747,2,3,2,6,1,Semi-Furnished,2,7424014
+Kompally,1115,2,2,7,20,2,Semi-Furnished,1,7208549
+Kondapur,1980,4,5,14,5,1,Semi-Furnished,8,14167786
+Secunderabad,2451,4,5,4,18,1,Unfurnished,5,16728368
+Gachibowli,2165,4,4,17,22,1,Unfurnished,4,18892559
+Kukatpally,1593,3,3,27,15,1,Unfurnished,7,9703569
+Ameerpet,1737,3,3,27,12,2,Unfurnished,8,10111195
+Miyapur,1551,3,4,6,9,1,Unfurnished,9,9009707
+Begumpet,1523,3,3,16,9,1,Furnished,5,10933242
+Secunderabad,1318,2,2,16,18,0,Unfurnished,9,8485223
+Banjara Hills,2507,5,5,26,16,1,Semi-Furnished,2,21490579
+Jubilee Hills,960,2,2,24,8,1,Semi-Furnished,9,8488088
+Kondapur,1622,3,4,6,18,2,Furnished,5,12363027
+Dilsukhnagar,2040,3,4,29,1,1,Semi-Furnished,8,11688090
+Banjara Hills,1720,3,4,15,10,1,Semi-Furnished,7,14680005
+Jubilee Hills,1503,3,3,28,2,0,Unfurnished,5,12388532
+Begumpet,581,2,2,20,20,2,Furnished,2,4660333
+Shamshabad,1447,3,4,18,16,1,Furnished,1,6456530
+Miyapur,1117,2,2,12,3,2,Semi-Furnished,9,6302762
+Banjara Hills,2039,4,4,10,12,2,Semi-Furnished,9,18500480
+Manikonda,1936,3,4,9,13,1,Unfurnished,10,11208251
+Kondapur,300,1,1,12,8,2,Semi-Furnished,9,2583681
+Kondapur,1868,4,5,11,8,2,Unfurnished,3,14762115
+Kukatpally,1506,3,3,7,22,1,Furnished,6,11921637
+Financial District,1307,2,3,11,15,1,Furnished,8,11513748
+Shamshabad,2031,3,3,15,22,1,Furnished,10,8752685
+Miyapur,2188,4,4,17,9,2,Furnished,10,12506890
+Kukatpally,1656,3,4,5,14,1,Furnished,8,12239043
+Financial District,2321,4,5,12,19,1,Unfurnished,8,20151317
+Uppal,1709,3,4,24,1,2,Furnished,8,8131312
+Hitech City,2412,4,5,15,2,1,Semi-Furnished,9,22565623
+Dilsukhnagar,963,2,3,19,8,1,Unfurnished,7,5343333
+Uppal,1488,3,3,21,9,1,Semi-Furnished,3,6287967
+Secunderabad,955,2,2,23,10,2,Semi-Furnished,10,7084989
+Kukatpally,2572,5,6,23,13,2,Semi-Furnished,5,18907191
+Manikonda,1342,3,3,29,5,1,Unfurnished,4,7407623
+LB Nagar,2194,4,4,23,17,1,Semi-Furnished,8,9733825
+Kukatpally,1670,3,3,12,9,1,Unfurnished,1,12557201
+Shamshabad,1592,3,3,7,20,1,Semi-Furnished,3,7275841
+Jubilee Hills,2251,4,4,1,11,2,Furnished,7,19994957
+Banjara Hills,1307,2,2,15,23,1,Furnished,1,11698058
+Kokapet,887,2,2,11,1,1,Furnished,5,6833503
+Secunderabad,1683,3,3,21,20,1,Furnished,3,11309993
+Kondapur,1750,3,3,21,15,0,Furnished,7,12957974
+Kokapet,2074,4,4,4,0,2,Semi-Furnished,9,15218083
+Secunderabad,1726,3,4,10,0,1,Furnished,2,12338864
+Manikonda,1386,2,3,20,11,1,Unfurnished,2,6696200
+Ameerpet,1636,3,3,11,2,2,Unfurnished,7,9307833
+Jubilee Hills,1945,3,3,16,15,1,Unfurnished,8,17702834
+Kokapet,1665,3,4,13,10,1,Unfurnished,6,12911151
+Kondapur,911,2,2,23,5,1,Furnished,6,7266588
+Financial District,1141,2,2,29,17,1,Semi-Furnished,6,10128583
+Begumpet,1425,3,3,2,18,0,Semi-Furnished,5,10071225
+Uppal,1507,3,4,2,17,2,Semi-Furnished,10,8256965
+Narsingi,1344,3,4,0,13,2,Semi-Furnished,2,9772945
+Hitech City,2319,4,4,17,12,1,Furnished,10,21168077
+Uppal,2377,4,5,0,18,1,Semi-Furnished,4,10889215
+Ameerpet,3206,5,6,3,24,1,Unfurnished,6,17557597
+Ameerpet,1192,2,2,8,4,1,Semi-Furnished,10,7641293
+Banjara Hills,1826,3,3,7,20,2,Unfurnished,6,17405859
+Miyapur,1063,2,2,17,9,1,Semi-Furnished,3,5801832
+Uppal,1301,2,2,4,19,1,Semi-Furnished,6,6447591
+Kukatpally,2167,4,4,22,22,2,Semi-Furnished,5,15323573
+Financial District,1869,3,3,8,22,2,Unfurnished,6,17156428
+Narsingi,1085,2,3,12,10,1,Furnished,5,8697952
+Miyapur,2346,4,5,6,2,1,Furnished,10,14716462
+Uppal,1590,3,4,29,14,0,Unfurnished,8,6588602
+Gachibowli,1315,3,3,24,8,1,Furnished,4,11638162
+Ameerpet,2690,5,6,7,3,1,Unfurnished,9,16119988
+Secunderabad,1324,2,2,6,20,1,Furnished,6,10266753
+Uppal,2674,5,5,19,19,1,Unfurnished,10,11006045
+Kokapet,1956,4,5,8,20,2,Unfurnished,6,14350850
+Uppal,1444,3,4,18,1,2,Unfurnished,6,7236937
+Kukatpally,968,2,2,13,2,2,Semi-Furnished,5,7520721
+Begumpet,1092,2,3,18,18,2,Unfurnished,6,8677577
+Dilsukhnagar,1254,2,2,9,6,1,Semi-Furnished,5,7935575
+Manikonda,1086,2,2,20,1,0,Semi-Furnished,8,6220132
+Hitech City,1301,2,2,28,22,1,Unfurnished,6,11974656
+Dilsukhnagar,1034,2,3,1,6,1,Furnished,8,7241701
+Kondapur,2032,4,5,4,8,0,Furnished,1,14959011
+Financial District,807,2,2,18,5,2,Unfurnished,8,7336042
+Ameerpet,1126,2,3,14,1,2,Semi-Furnished,8,6516553
+Kondapur,1746,3,3,25,19,1,Semi-Furnished,7,11951234
+Jubilee Hills,1046,3,3,16,0,2,Furnished,8,9495450
+Banjara Hills,1817,3,4,6,11,1,Unfurnished,2,16381804
+Manikonda,1337,3,3,3,14,0,Unfurnished,5,7574115
+Financial District,2914,5,6,3,11,1,Unfurnished,2,26206327
+Manikonda,2016,3,4,4,24,1,Unfurnished,6,11990860
+Banjara Hills,1879,3,3,23,23,1,Unfurnished,5,16303251
+Begumpet,300,1,1,7,17,1,Unfurnished,10,2366820
+Hitech City,2222,4,4,22,23,1,Furnished,6,19839186
+Dilsukhnagar,2115,4,4,14,17,2,Furnished,5,12170192
+Gachibowli,1008,2,2,3,11,1,Semi-Furnished,2,9064922
+Secunderabad,1540,3,3,7,14,2,Semi-Furnished,2,10326716
+Manikonda,561,1,1,1,2,2,Semi-Furnished,2,3554507
+Financial District,1696,3,4,19,17,1,Semi-Furnished,7,14398876
+Dilsukhnagar,1123,2,3,14,10,2,Unfurnished,3,6448063
+Begumpet,1111,2,3,6,10,1,Semi-Furnished,2,7495401
+Hitech City,2390,4,4,3,12,1,Unfurnished,5,21011717
+Kompally,1075,2,2,26,15,1,Semi-Furnished,5,6141026
+Miyapur,1775,3,3,5,4,2,Semi-Furnished,8,10449437
+Shamshabad,1447,3,3,19,14,1,Semi-Furnished,5,6720847
+Secunderabad,2073,4,4,22,20,1,Furnished,4,15952005
+Kondapur,2320,4,4,7,7,1,Semi-Furnished,9,18472744
+Ameerpet,383,1,1,4,15,2,Furnished,4,3038227
+Gachibowli,1171,2,3,12,10,1,Semi-Furnished,10,11954027
+Kokapet,986,2,2,22,23,1,Unfurnished,3,7489591
+Madhapur,1773,3,3,16,0,2,Furnished,3,13618360
+Miyapur,1652,3,4,0,19,1,Furnished,6,10501896
+Secunderabad,1985,4,4,8,21,2,Semi-Furnished,6,13772376
+Financial District,1662,3,3,11,4,1,Semi-Furnished,8,14194157
+Kukatpally,1805,3,3,17,17,1,Furnished,10,12178910
+Dilsukhnagar,739,2,2,2,11,1,Unfurnished,10,4671848
+Kompally,2528,4,4,10,21,1,Furnished,1,15506942
+Begumpet,1887,3,3,24,4,2,Semi-Furnished,3,14543344
+Madhapur,1003,2,3,2,15,1,Furnished,6,9395134
+Kompally,1927,3,4,14,11,1,Semi-Furnished,6,11481435
+Secunderabad,1699,3,4,25,18,1,Unfurnished,10,11608003
+Miyapur,684,1,1,2,7,0,Semi-Furnished,6,4389450
+Kompally,893,2,3,16,18,0,Semi-Furnished,10,5508754
+Dilsukhnagar,1740,3,3,2,17,1,Semi-Furnished,8,10549070
+Ameerpet,1664,3,3,1,18,1,Semi-Furnished,3,9924418
+Kondapur,1572,3,4,25,16,2,Unfurnished,8,12750394
+Miyapur,2141,4,4,14,0,1,Unfurnished,5,11916524
+Hitech City,2141,4,4,7,0,1,Semi-Furnished,5,19466016
+Shamshabad,1615,3,4,1,10,1,Semi-Furnished,6,8071912
+Madhapur,1227,2,2,29,22,1,Unfurnished,6,9944988
+Kompally,1640,3,3,16,18,1,Semi-Furnished,2,9259320
+Jubilee Hills,1212,2,2,0,12,1,Semi-Furnished,3,11002450
+Banjara Hills,993,2,3,5,21,1,Furnished,2,9892520
+Hitech City,1124,2,2,14,19,1,Semi-Furnished,6,10047959
+Manikonda,928,2,3,22,11,1,Semi-Furnished,4,5277509
+Gachibowli,1089,2,3,29,9,1,Furnished,4,9981700
+Kompally,2743,4,4,29,0,2,Semi-Furnished,1,13537580
+Gachibowli,752,2,2,29,16,1,Semi-Furnished,8,6931549
+Financial District,1404,2,3,20,2,2,Semi-Furnished,9,11956001
+Banjara Hills,1620,2,3,19,11,1,Semi-Furnished,4,15200895
+Miyapur,1996,4,4,25,9,0,Furnished,3,11283786
+Narsingi,1482,3,3,17,0,2,Furnished,10,10714339
+Kondapur,1208,2,3,9,24,1,Semi-Furnished,4,8690434
+Manikonda,2261,5,6,18,10,0,Semi-Furnished,6,13014183
+Kondapur,1267,3,4,18,23,1,Semi-Furnished,8,8804369
+Narsingi,1237,3,4,27,21,1,Semi-Furnished,10,9197004
+Miyapur,936,2,2,8,18,1,Unfurnished,8,5969970
+LB Nagar,1348,3,4,26,6,1,Furnished,10,6845947
+Shamshabad,1749,3,3,1,22,1,Semi-Furnished,7,7959309
+Kompally,2479,4,4,21,0,1,Unfurnished,1,14115632
+Jubilee Hills,1331,2,2,14,5,1,Furnished,9,11939500
+Kompally,1350,2,3,13,2,2,Furnished,3,8113636
+Begumpet,2252,4,4,20,2,1,Unfurnished,5,14165724
+Secunderabad,1182,3,4,4,9,1,Semi-Furnished,4,9465343
+Kokapet,1202,2,2,22,0,1,Unfurnished,6,7865481
+Kukatpally,1185,2,2,19,17,1,Furnished,7,9667680
+Ameerpet,1598,3,4,0,14,2,Unfurnished,5,10288980
+Miyapur,2769,5,5,14,6,1,Semi-Furnished,6,15264842
+Manikonda,1248,2,2,5,10,1,Semi-Furnished,5,7072687
+Narsingi,1833,3,4,7,19,1,Unfurnished,10,12256925
+Kompally,948,2,3,27,21,1,Unfurnished,4,5160217
+LB Nagar,2272,4,5,12,7,2,Unfurnished,4,10016820
+Kokapet,1248,2,2,9,0,1,Furnished,7,9650192
+LB Nagar,921,2,2,23,0,1,Semi-Furnished,9,4224701
+Uppal,1769,3,4,9,2,0,Semi-Furnished,1,7429090
+Kukatpally,1241,2,3,20,7,1,Semi-Furnished,1,8436461
+Hitech City,2045,4,4,14,19,1,Furnished,9,18364594
+Manikonda,1951,4,4,17,9,1,Unfurnished,4,10497371
+Manikonda,1142,2,3,12,14,1,Unfurnished,10,6162606
+LB Nagar,1754,3,4,24,23,1,Semi-Furnished,7,8416009
+LB Nagar,2934,5,5,7,12,1,Furnished,6,12187639
+Narsingi,2074,4,5,11,5,0,Semi-Furnished,2,14341604
+Narsingi,1100,2,2,5,0,1,Unfurnished,3,7605123
+Shamshabad,1204,2,3,15,11,0,Semi-Furnished,4,5337243
+Secunderabad,1450,3,4,7,9,2,Furnished,8,9778881
+Financial District,934,2,2,19,5,1,Unfurnished,9,7658893
+Begumpet,1501,3,4,11,16,1,Unfurnished,1,9636584
+Jubilee Hills,1452,3,4,16,21,1,Semi-Furnished,8,12831260
+Ameerpet,1010,2,2,5,17,0,Unfurnished,8,5904386
+Uppal,1223,2,3,2,2,0,Semi-Furnished,2,6295492
+Secunderabad,889,2,2,29,5,2,Unfurnished,10,6212934
+Shamshabad,778,2,2,21,1,1,Unfurnished,7,3279223
+Uppal,958,2,2,24,24,1,Semi-Furnished,6,4415508
+Uppal,1572,3,3,20,20,1,Semi-Furnished,10,7373183
+Financial District,1133,2,2,24,9,1,Semi-Furnished,10,10576044
+Hitech City,1248,2,2,7,21,1,Semi-Furnished,3,10446292
+Miyapur,336,1,1,8,5,0,Furnished,10,2450511
+Miyapur,1588,3,3,17,13,2,Unfurnished,5,8311916
+Shamshabad,877,2,2,17,23,1,Unfurnished,10,4427201
+Kondapur,1904,3,4,25,7,1,Semi-Furnished,10,13857785
+Hitech City,2119,4,4,8,16,1,Furnished,5,19853955
+Narsingi,1004,2,2,11,16,1,Semi-Furnished,10,8223313
+Jubilee Hills,1177,2,2,12,11,1,Semi-Furnished,2,10274332
+Miyapur,452,1,1,25,11,1,Semi-Furnished,7,2250065
+Madhapur,1044,2,3,4,0,1,Furnished,2,9538949
+Kondapur,2299,4,5,26,17,2,Semi-Furnished,2,16810627
+Kompally,1652,3,3,7,20,1,Unfurnished,8,9659076
+Kokapet,1399,2,3,4,24,2,Unfurnished,8,9827263
+Kukatpally,1565,3,3,6,6,1,Semi-Furnished,2,11452232
+Kukatpally,1279,3,3,7,18,0,Unfurnished,5,9284587
+Kompally,972,2,2,1,13,1,Furnished,9,6429499
+Kukatpally,1699,3,3,17,5,1,Furnished,3,11871833
+Kokapet,2154,4,4,13,18,1,Semi-Furnished,7,15020923
+Uppal,1451,2,2,24,16,2,Unfurnished,5,6124426
+Kompally,1451,3,3,3,1,1,Semi-Furnished,6,8910808
+Kukatpally,1327,3,3,18,8,1,Unfurnished,3,10489786
+Begumpet,1320,2,3,25,3,1,Semi-Furnished,9,9212255
+Hitech City,1039,2,3,20,21,1,Unfurnished,6,9745644
+Kokapet,1255,2,3,19,4,1,Furnished,3,9096101
+Jubilee Hills,988,2,2,8,22,1,Semi-Furnished,3,9445136
+Begumpet,1334,2,2,10,22,1,Unfurnished,8,10662175
+Shamshabad,2354,4,4,18,10,1,Semi-Furnished,8,11638851
+Gachibowli,2917,5,5,13,1,2,Furnished,2,26321336
+Banjara Hills,1835,3,4,28,9,2,Unfurnished,8,17438705
+Miyapur,1951,3,3,1,2,1,Semi-Furnished,3,10565605
+Kokapet,1004,2,2,16,20,0,Unfurnished,9,7183918
+Narsingi,898,2,3,7,23,0,Furnished,8,8074769
+Secunderabad,1350,2,2,19,15,1,Semi-Furnished,5,10084360
+Ameerpet,1808,3,3,1,1,1,Semi-Furnished,1,11681801
+Uppal,2672,5,5,15,8,1,Semi-Furnished,10,12805637
+Manikonda,978,2,3,3,13,1,Semi-Furnished,2,5867427
+Secunderabad,2148,4,5,11,21,1,Semi-Furnished,9,15025128
+Financial District,1139,2,3,17,12,2,Unfurnished,8,10314334
+Manikonda,984,2,3,29,14,1,Semi-Furnished,6,5567821
+Narsingi,1077,2,2,27,0,1,Semi-Furnished,8,7375522
+Jubilee Hills,1426,3,3,19,12,1,Unfurnished,8,12349596
+Shamshabad,1429,2,2,15,12,1,Furnished,5,6626191
+Manikonda,1331,3,4,16,13,1,Semi-Furnished,8,8159509
+Jubilee Hills,2032,3,4,6,6,1,Furnished,8,18977219
+Ameerpet,937,2,2,17,9,1,Semi-Furnished,1,5100457
+Financial District,1097,2,2,8,1,2,Furnished,6,10064786
+Kondapur,1486,3,3,16,3,2,Unfurnished,1,11188888
+Ameerpet,2479,4,4,1,2,2,Unfurnished,6,14507921
+Kokapet,1245,2,2,4,0,2,Unfurnished,9,8444328
+Shamshabad,2500,5,5,27,19,1,Furnished,2,11756964
+Gachibowli,2219,4,4,8,13,1,Semi-Furnished,6,19267472
+Begumpet,615,2,3,8,15,1,Furnished,4,4825680
+Begumpet,1028,2,3,3,15,1,Semi-Furnished,8,8369859
+Jubilee Hills,1642,3,3,29,0,1,Semi-Furnished,1,13534449
+Banjara Hills,1622,3,4,24,2,1,Semi-Furnished,1,15100268
+Kokapet,1179,2,2,20,15,1,Unfurnished,7,7744214
+Kondapur,1593,3,4,0,19,0,Furnished,4,11507117
+Financial District,1237,2,2,22,7,1,Furnished,10,10909758
+Dilsukhnagar,689,1,1,21,5,1,Unfurnished,4,4157706
+Banjara Hills,2071,4,4,18,11,1,Semi-Furnished,8,16594073
+Kondapur,1540,3,3,19,13,1,Unfurnished,9,10711351
+Manikonda,2172,4,5,25,17,1,Unfurnished,2,11672172
+Kondapur,1896,3,4,24,18,2,Unfurnished,6,10958594
+LB Nagar,1983,3,4,3,16,1,Furnished,6,9544597
+Ameerpet,857,2,3,20,15,1,Unfurnished,6,5485599
+Uppal,1414,3,4,10,24,1,Furnished,5,7402569
+Jubilee Hills,1141,2,2,6,7,1,Unfurnished,3,10004896
+Banjara Hills,2108,4,5,20,8,1,Semi-Furnished,7,18900774
+Ameerpet,1361,3,4,26,21,2,Furnished,9,8417181
+Financial District,1053,2,2,23,20,1,Unfurnished,2,8928611
+Kukatpally,582,1,1,18,14,1,Furnished,4,4197249
+Kondapur,1749,3,3,25,2,1,Semi-Furnished,10,11887031
+Banjara Hills,2203,4,4,2,17,2,Furnished,1,23181665
+Madhapur,1458,2,2,23,1,2,Unfurnished,3,13638838
+Financial District,1398,3,3,29,2,1,Semi-Furnished,5,12122821
+Financial District,2494,4,4,27,4,1,Semi-Furnished,5,22032312
+Banjara Hills,418,1,1,29,2,1,Unfurnished,4,3280694
+Narsingi,1964,4,4,12,0,1,Unfurnished,5,14936130
+Uppal,1694,3,4,21,17,2,Semi-Furnished,7,7915473
+Miyapur,2155,4,4,0,21,1,Unfurnished,2,11536498
+Kompally,2444,4,4,2,19,1,Semi-Furnished,8,15823693
+Banjara Hills,2079,4,5,27,5,1,Unfurnished,1,17235517
+Banjara Hills,300,1,2,7,11,1,Semi-Furnished,8,3406691
+Banjara Hills,1870,3,3,11,15,1,Semi-Furnished,7,16215463
+Kondapur,983,2,3,10,20,1,Semi-Furnished,1,6827984
+Financial District,1389,3,3,0,10,1,Semi-Furnished,4,12685966
+Hitech City,1714,3,4,3,21,0,Semi-Furnished,1,14664853
+Miyapur,1996,4,4,5,21,1,Furnished,4,11798755
+Kokapet,2279,3,3,15,18,0,Furnished,8,17480817
+Secunderabad,2115,4,4,22,3,1,Furnished,3,14568373
+Jubilee Hills,2127,4,4,16,1,1,Semi-Furnished,10,19048679
+Kondapur,1300,2,2,11,14,1,Semi-Furnished,5,9549232
+Kukatpally,1251,2,2,29,9,1,Semi-Furnished,3,8179030
+Kukatpally,1565,4,5,29,2,0,Semi-Furnished,4,10582096
+Uppal,997,2,2,11,21,2,Furnished,2,5062883
+Hitech City,874,2,2,2,18,1,Furnished,8,8711173
+Narsingi,1701,3,4,1,16,0,Unfurnished,5,12822128
+Secunderabad,1896,3,3,9,3,1,Semi-Furnished,7,12784198
+Kukatpally,1035,2,3,7,6,1,Semi-Furnished,7,7904196
+Begumpet,2736,5,5,23,11,2,Furnished,4,20624147
+Madhapur,2173,4,4,22,15,1,Furnished,3,18330515
+Ameerpet,2108,4,4,27,21,2,Furnished,1,12104787
+Banjara Hills,1983,3,3,25,8,1,Furnished,7,17698605
+Banjara Hills,1153,2,2,14,16,2,Semi-Furnished,3,11445618
+Kompally,1241,2,2,9,0,0,Semi-Furnished,10,7522742
+Financial District,1629,3,3,12,15,1,Unfurnished,10,13351497
+Banjara Hills,1857,3,4,7,22,1,Unfurnished,4,19101274
+Shamshabad,2435,4,4,18,16,1,Semi-Furnished,6,12217588
+Kokapet,942,2,2,5,13,1,Furnished,6,6872211
+Miyapur,1585,3,3,18,23,2,Unfurnished,4,8916402
+Kokapet,1467,3,3,6,14,1,Semi-Furnished,8,10559315
+Banjara Hills,1022,2,2,18,8,2,Semi-Furnished,4,9127934
+Begumpet,1176,2,2,23,4,1,Furnished,2,8538783
+Financial District,1316,3,3,14,9,2,Furnished,9,12866385
+Narsingi,1229,2,3,15,6,0,Furnished,3,9057569
+Dilsukhnagar,2184,4,4,16,1,2,Semi-Furnished,5,12090915
+Ameerpet,495,1,2,11,8,1,Unfurnished,5,3197664
+Financial District,1738,3,3,6,8,1,Unfurnished,10,16517008
+Uppal,1379,3,3,7,15,1,Semi-Furnished,7,6758320
+Financial District,1599,3,3,10,17,1,Furnished,3,13492982
+LB Nagar,753,2,3,2,15,2,Furnished,3,4389337
+Uppal,886,2,2,14,11,1,Unfurnished,9,4317346
+Shamshabad,1771,3,4,10,21,2,Semi-Furnished,8,8448664
+Begumpet,1550,3,3,1,14,1,Semi-Furnished,5,11504045
+Narsingi,1504,3,3,10,8,0,Furnished,5,10797821
+Miyapur,945,2,2,26,8,1,Semi-Furnished,3,4964645
+Hitech City,1180,2,2,0,2,1,Semi-Furnished,1,10806384
+Kukatpally,1769,3,4,10,5,1,Unfurnished,2,12380976
+Hitech City,1219,2,2,19,20,2,Furnished,6,11171892
+Secunderabad,1314,3,3,21,10,1,Semi-Furnished,7,8659156
+Narsingi,991,2,2,1,8,1,Furnished,9,7996422
+LB Nagar,983,2,2,5,1,1,Semi-Furnished,6,4584010
+Miyapur,1719,3,3,11,9,1,Semi-Furnished,7,9674562
+Madhapur,1739,3,3,25,8,1,Unfurnished,2,15329471
+Dilsukhnagar,1265,3,3,15,15,1,Furnished,6,7212185
+Miyapur,1060,2,2,21,13,1,Semi-Furnished,6,5994888
+Hitech City,1720,3,4,17,24,1,Furnished,10,14600927
+Ameerpet,1554,3,4,15,8,1,Furnished,7,8963955
+Madhapur,2698,5,5,10,1,2,Unfurnished,4,23733944
+LB Nagar,709,1,2,28,12,2,Semi-Furnished,1,2761365
+Miyapur,936,2,2,5,14,1,Semi-Furnished,6,5960070
+Dilsukhnagar,1430,2,2,13,16,1,Furnished,2,7982275
+Financial District,1807,3,4,25,12,2,Semi-Furnished,9,15680164
+Dilsukhnagar,1885,3,4,11,14,2,Furnished,1,11916636
+Gachibowli,1123,2,2,26,0,1,Semi-Furnished,2,8894969
+Kokapet,2059,4,4,17,15,0,Semi-Furnished,4,14530640
+Hitech City,1117,2,2,10,23,1,Furnished,7,10375927
+Ameerpet,480,1,2,11,2,2,Semi-Furnished,4,2905889
+Kukatpally,1155,2,3,13,8,1,Furnished,1,7779904
+Shamshabad,1624,3,3,28,12,1,Semi-Furnished,2,6816385
+Uppal,1696,3,3,15,1,1,Furnished,4,7870769
+Uppal,1582,2,2,1,20,1,Semi-Furnished,7,8271688
+Kukatpally,710,1,1,12,15,2,Semi-Furnished,8,5280334
+Kompally,1502,3,3,16,7,1,Semi-Furnished,6,8344205
+Manikonda,2384,4,4,29,21,1,Semi-Furnished,3,12283714
+Kukatpally,1623,3,3,19,6,1,Furnished,7,12887729
+Uppal,2999,5,6,19,3,2,Furnished,5,14483135
+Banjara Hills,1765,3,3,12,9,1,Semi-Furnished,9,15613841
+Secunderabad,1435,3,4,3,20,1,Unfurnished,7,10961348
+Kondapur,1848,4,5,4,12,1,Semi-Furnished,6,13925073
+Uppal,1044,2,2,17,18,1,Semi-Furnished,9,5204460
+Dilsukhnagar,901,2,2,23,23,1,Semi-Furnished,5,5179535
+Narsingi,1589,3,3,12,19,1,Semi-Furnished,10,12432658
+Gachibowli,974,2,2,19,6,1,Furnished,6,8240575
+LB Nagar,963,2,2,24,18,1,Semi-Furnished,8,4545794
+Financial District,2363,4,4,16,2,1,Semi-Furnished,5,22791228
+Begumpet,1480,3,3,18,22,1,Unfurnished,5,11433088
+Kukatpally,2099,4,5,3,3,1,Semi-Furnished,10,15704295
+Kukatpally,1146,2,3,12,23,0,Furnished,3,8730217
+Manikonda,1254,2,2,11,21,0,Unfurnished,8,7223991
+Jubilee Hills,1179,2,2,13,19,2,Unfurnished,2,9354021
+Jubilee Hills,1956,4,4,24,12,1,Semi-Furnished,8,18489268
+Kondapur,1035,2,2,9,21,1,Unfurnished,6,7493960
+Uppal,1784,3,4,3,20,1,Semi-Furnished,4,8698256
+Financial District,1562,2,3,6,12,1,Unfurnished,4,13916788
+Madhapur,1722,3,4,13,17,1,Furnished,3,16654146
+Miyapur,1276,3,4,10,20,1,Furnished,1,7592307
+Miyapur,1434,2,2,4,12,1,Semi-Furnished,7,9586881
+Ameerpet,1546,3,4,23,6,1,Semi-Furnished,3,8221073
+Miyapur,1664,3,3,5,2,0,Furnished,2,9751675
+LB Nagar,1424,2,3,2,18,1,Furnished,1,6881489
+Banjara Hills,1620,3,4,23,0,1,Furnished,1,14206591
+Banjara Hills,1591,3,3,7,0,1,Semi-Furnished,10,14545184
+Ameerpet,2433,4,4,9,6,2,Unfurnished,1,14423983
+Kukatpally,2121,4,4,16,9,1,Semi-Furnished,5,14891761
+Kukatpally,1596,3,4,3,18,1,Unfurnished,3,12522685
+Hitech City,1318,2,2,1,0,0,Unfurnished,7,11509045
+Kondapur,899,2,2,0,6,2,Unfurnished,7,6948100
+Begumpet,1530,3,3,4,8,1,Semi-Furnished,8,11025598
+Shamshabad,1153,2,2,7,17,1,Semi-Furnished,6,5284185
+Kompally,2226,4,5,21,14,0,Unfurnished,10,12594014
+LB Nagar,1085,2,2,16,5,1,Unfurnished,1,4358492
+Gachibowli,1620,3,3,4,9,1,Semi-Furnished,5,15299888
+LB Nagar,1251,3,3,16,19,1,Semi-Furnished,7,5790487
+Banjara Hills,911,2,2,10,1,1,Furnished,1,7933117
+Uppal,1718,3,4,14,9,2,Unfurnished,9,7678093
+Kompally,1743,3,3,12,7,1,Semi-Furnished,2,9862757
+Gachibowli,1170,2,2,5,18,1,Unfurnished,8,9773462
+Kukatpally,905,2,3,15,4,1,Unfurnished,8,6911909
+LB Nagar,922,2,2,15,6,1,Furnished,1,4300975
+Gachibowli,2556,5,5,28,24,1,Furnished,4,21542380
+Miyapur,1384,3,3,26,3,1,Furnished,5,7850460
+Financial District,1115,2,2,10,16,0,Semi-Furnished,8,10624989
+Begumpet,1305,2,2,29,8,2,Furnished,8,9082264
+Dilsukhnagar,755,1,1,18,22,1,Semi-Furnished,5,4271617
+Shamshabad,1211,3,3,8,5,1,Unfurnished,3,5409058
+Jubilee Hills,2078,4,5,4,19,2,Furnished,4,21116580
+Manikonda,1290,2,2,13,1,1,Semi-Furnished,2,6548457
+Secunderabad,2084,3,3,4,9,2,Semi-Furnished,9,14923087
+Uppal,1328,3,3,21,1,1,Semi-Furnished,2,6392322
+Hitech City,1630,3,4,25,13,1,Semi-Furnished,7,15064697
+Secunderabad,1273,2,3,9,14,2,Furnished,5,9433847
+Kompally,1339,3,4,0,4,1,Unfurnished,2,7895047
+Manikonda,826,2,2,29,10,1,Unfurnished,4,4419657
+Financial District,467,1,1,16,3,1,Unfurnished,3,3348954
+Kokapet,2345,5,5,17,1,1,Unfurnished,7,16887885
+Secunderabad,1263,3,3,22,7,1,Unfurnished,4,8186809
+Begumpet,1897,3,4,18,18,1,Unfurnished,6,11539038
+LB Nagar,1105,2,3,11,22,1,Semi-Furnished,7,5629034
+Hitech City,1070,2,2,13,18,1,Unfurnished,2,10024559
+Miyapur,1672,3,3,9,18,1,Furnished,4,9832427
+Ameerpet,2233,4,4,26,11,0,Semi-Furnished,5,12698495
+Banjara Hills,1683,3,3,19,12,1,Semi-Furnished,9,13909954
+LB Nagar,1649,3,3,13,9,1,Unfurnished,10,7094969
+Kukatpally,1768,4,4,6,0,0,Semi-Furnished,8,13068973
+Financial District,900,2,2,15,17,2,Semi-Furnished,7,8257637
+Shamshabad,1694,3,3,17,15,1,Unfurnished,6,7322348
+LB Nagar,1660,3,3,19,12,1,Semi-Furnished,6,7010194
+Gachibowli,1345,3,3,16,21,1,Furnished,2,12604380
+Secunderabad,1146,2,2,7,0,1,Furnished,9,8819527
+Kompally,2462,4,5,15,22,2,Semi-Furnished,10,13021466
+Madhapur,1678,3,3,5,12,1,Semi-Furnished,9,15129545
+Kokapet,1816,3,4,8,23,1,Furnished,3,13731711
+Secunderabad,1781,3,3,12,7,1,Semi-Furnished,5,13540478
+LB Nagar,1995,4,5,13,9,1,Semi-Furnished,1,9992097
+Ameerpet,1162,2,2,8,11,1,Unfurnished,8,6861486
+Begumpet,1673,3,3,3,20,2,Semi-Furnished,3,13091382
+Madhapur,1190,2,3,3,4,1,Semi-Furnished,6,10731604
+Begumpet,1813,3,3,8,21,1,Unfurnished,8,13751073
+Madhapur,1627,3,4,27,11,1,Unfurnished,7,14641575
+Kukatpally,2330,4,4,13,24,1,Unfurnished,4,15623249
+Gachibowli,1311,2,2,14,7,2,Unfurnished,2,11297214
+Banjara Hills,1099,2,2,17,9,2,Semi-Furnished,10,9620426
+LB Nagar,1007,2,2,16,9,0,Semi-Furnished,3,4170402
+Uppal,1581,3,4,11,24,2,Semi-Furnished,2,7355588
+Financial District,2622,5,5,23,7,2,Semi-Furnished,9,24305216
+Kukatpally,2918,5,6,28,5,2,Semi-Furnished,5,22412394
+Kukatpally,2983,5,5,17,2,1,Semi-Furnished,4,20271675
+LB Nagar,1410,3,4,4,18,1,Semi-Furnished,4,5987002
+Dilsukhnagar,1049,2,3,15,3,2,Unfurnished,1,6494731
+Kompally,1380,3,4,24,2,0,Furnished,7,8424174
+Kompally,996,2,2,23,12,1,Semi-Furnished,8,6138077
+Kokapet,1417,3,4,16,9,1,Furnished,4,10395117
+Secunderabad,1249,2,3,1,9,1,Furnished,3,8433771
+Ameerpet,2139,4,5,2,5,1,Semi-Furnished,8,12355797
+Madhapur,910,2,2,21,22,0,Semi-Furnished,3,8142872
+Jubilee Hills,1241,2,3,23,0,2,Unfurnished,8,10726975
+Kondapur,1186,2,2,23,7,0,Semi-Furnished,4,8616996
+Manikonda,2002,4,5,24,13,2,Unfurnished,4,11819471
+Narsingi,1402,3,3,13,7,1,Semi-Furnished,2,9707657
+Kompally,1437,3,3,29,3,1,Semi-Furnished,5,7698483
+Secunderabad,1089,2,2,3,10,1,Semi-Furnished,9,7887574
+Gachibowli,2947,5,6,22,21,1,Furnished,1,25827700
+Manikonda,2049,3,4,4,4,1,Unfurnished,10,11319964
+Kompally,499,1,2,2,3,1,Unfurnished,2,3189715
+Manikonda,1973,3,3,27,8,1,Semi-Furnished,10,10186011
+Gachibowli,2469,5,6,26,24,1,Unfurnished,2,21291844
+Financial District,1330,2,3,5,10,1,Unfurnished,9,12278507
+Dilsukhnagar,1791,3,3,0,21,1,Semi-Furnished,1,10747955
+Begumpet,1161,2,2,21,22,0,Unfurnished,6,8065220
+Hitech City,2240,4,4,19,0,1,Semi-Furnished,3,19276125
+Kompally,1979,3,3,18,19,1,Semi-Furnished,8,11206686
+Secunderabad,1541,3,4,25,12,1,Semi-Furnished,7,11085843
+Secunderabad,2354,4,4,23,12,0,Semi-Furnished,10,15816849
+Financial District,2833,5,5,5,11,2,Furnished,10,23223981
+Madhapur,1952,4,5,21,11,2,Unfurnished,10,17206587
+Miyapur,1100,2,2,27,0,1,Furnished,1,5912743
+LB Nagar,1800,3,3,6,18,1,Furnished,5,8751552
+Kondapur,1240,2,2,23,8,1,Furnished,2,8823443
+Hitech City,1379,3,3,27,0,2,Semi-Furnished,5,12565791
+Shamshabad,910,2,2,3,0,1,Unfurnished,3,4251588
+Hitech City,1440,3,3,24,9,0,Furnished,4,11960356
+Begumpet,1319,2,2,1,18,1,Semi-Furnished,5,8502732
+LB Nagar,1015,2,2,5,5,2,Furnished,5,5234250
+Kukatpally,921,2,2,2,17,0,Unfurnished,4,6422438
+Kokapet,2635,5,6,1,20,1,Furnished,1,21052710
+Jubilee Hills,1654,3,4,22,9,2,Semi-Furnished,4,15292886
+Madhapur,1400,3,4,28,16,1,Semi-Furnished,6,11852369
+Kukatpally,1567,2,3,14,20,2,Semi-Furnished,10,11783465
+Begumpet,744,1,1,2,3,0,Unfurnished,2,5370370
+Uppal,1524,3,3,29,0,1,Semi-Furnished,7,7098058
+Uppal,1730,3,3,12,5,1,Semi-Furnished,10,8611057
+Miyapur,2029,3,4,5,10,1,Furnished,6,12081933
+Jubilee Hills,1404,2,3,16,1,1,Furnished,6,12204316
+Kokapet,1577,3,3,7,14,2,Unfurnished,4,11896657
+Hitech City,2893,5,6,7,0,1,Unfurnished,9,25080399
+Begumpet,1863,3,4,25,9,1,Semi-Furnished,2,12427261
+Gachibowli,1883,4,4,14,18,0,Semi-Furnished,5,17777383
+Madhapur,1471,3,4,26,13,2,Furnished,5,13068043
+Kondapur,1745,3,4,9,14,1,Semi-Furnished,10,12765949
+Financial District,1669,3,3,6,11,1,Unfurnished,7,13799172
+Narsingi,1328,2,3,9,18,1,Semi-Furnished,7,9522903
+Gachibowli,1063,2,3,22,24,1,Furnished,1,9967599
+Madhapur,2292,4,4,8,21,1,Unfurnished,7,22513686
+Begumpet,1641,3,3,26,10,1,Semi-Furnished,8,11664708
+Banjara Hills,1103,2,2,25,14,1,Unfurnished,9,9533729
+Ameerpet,2596,4,5,17,11,1,Semi-Furnished,3,16121520
+Kondapur,1138,2,2,19,22,1,Semi-Furnished,10,7535078
+Ameerpet,2193,4,4,7,20,1,Furnished,10,13424774
+LB Nagar,2463,5,5,25,16,1,Furnished,4,12859396
+Dilsukhnagar,1975,4,5,1,7,1,Furnished,10,12844361
+Ameerpet,588,1,1,0,11,1,Semi-Furnished,7,3993009
+Jubilee Hills,1069,2,3,19,13,1,Furnished,9,10119019
+Madhapur,1878,3,3,3,15,1,Furnished,7,15764906
+Kondapur,2239,4,4,21,12,2,Unfurnished,3,13518938
+Gachibowli,2395,4,4,19,3,1,Semi-Furnished,10,19761006
+Kokapet,1689,3,3,21,21,1,Semi-Furnished,10,10965570
+Begumpet,1412,3,3,8,18,1,Semi-Furnished,4,9576807
+Narsingi,1853,3,3,18,7,2,Furnished,2,11533538
+Financial District,1553,3,4,10,10,1,Semi-Furnished,8,13633331
+Kompally,1935,4,5,4,21,2,Semi-Furnished,4,11626437
+Ameerpet,655,1,1,27,11,1,Semi-Furnished,10,3577258
+Banjara Hills,2006,4,4,17,19,0,Unfurnished,3,19340336
+Manikonda,1730,3,3,29,18,1,Unfurnished,5,9596552
+Financial District,1527,3,3,7,1,1,Furnished,4,13179213
+Uppal,1750,3,3,3,11,1,Semi-Furnished,4,7382971
+Manikonda,1984,4,5,10,0,1,Semi-Furnished,2,11156805
+Narsingi,2007,3,4,28,2,2,Semi-Furnished,4,12965522
+Begumpet,1567,3,3,16,11,1,Semi-Furnished,2,11633596
+Banjara Hills,1982,4,4,0,4,1,Unfurnished,5,16104401
+Secunderabad,1683,3,4,13,4,1,Furnished,2,11543333
+Hitech City,383,1,2,20,5,1,Semi-Furnished,6,3315685
+Shamshabad,749,2,3,13,19,0,Semi-Furnished,8,3563087
+Ameerpet,1928,4,4,16,5,1,Unfurnished,10,10496163
+Kokapet,2284,4,4,26,3,1,Semi-Furnished,6,15562872
+Narsingi,1593,3,3,0,10,2,Semi-Furnished,5,12042698
+Kompally,2378,4,4,9,9,1,Furnished,5,15867344
+Shamshabad,1026,2,2,27,12,0,Semi-Furnished,4,4596521
+Dilsukhnagar,1393,2,3,3,4,0,Furnished,2,7490156
+Shamshabad,2143,4,4,2,7,1,Semi-Furnished,7,10227446
+Ameerpet,2468,4,4,13,6,1,Unfurnished,8,13935230
+Madhapur,2151,4,4,26,14,1,Semi-Furnished,3,18054032
+Madhapur,858,1,1,17,13,1,Furnished,7,7273506
+Miyapur,973,2,2,28,2,1,Unfurnished,10,5168383
+Kukatpally,1613,3,3,20,12,2,Semi-Furnished,2,12244426
+Banjara Hills,1068,2,2,17,14,1,Furnished,6,10407024
+Kompally,1532,3,4,22,23,2,Furnished,7,9501962
+Dilsukhnagar,2885,5,5,15,3,1,Semi-Furnished,6,16387023
+Begumpet,1381,3,4,18,14,2,Unfurnished,7,10792883
+Begumpet,2247,4,4,28,9,0,Semi-Furnished,9,17385885
+Manikonda,1204,2,2,14,18,0,Semi-Furnished,6,7031552
+Jubilee Hills,563,1,2,5,0,2,Semi-Furnished,8,6107867
+Gachibowli,1555,3,4,24,1,1,Semi-Furnished,7,13182797
+Uppal,2050,3,4,5,16,1,Furnished,4,10113192
+Secunderabad,2290,4,5,3,20,1,Semi-Furnished,3,16557369
+Hitech City,1441,3,4,0,22,0,Unfurnished,6,13968138
+Gachibowli,1404,3,3,27,10,1,Furnished,8,13027903
+Banjara Hills,1494,3,3,15,12,1,Semi-Furnished,4,12275785
+LB Nagar,1321,2,2,8,24,1,Furnished,4,5880855
+Financial District,1624,3,3,28,19,1,Furnished,2,14289548
+Hitech City,833,2,3,20,21,1,Semi-Furnished,9,8209316
+Dilsukhnagar,1194,2,2,28,14,1,Furnished,2,6618875
+Miyapur,1402,3,3,1,1,2,Semi-Furnished,6,8923098
+Dilsukhnagar,1396,3,3,5,1,1,Unfurnished,7,9087957
+Banjara Hills,1561,3,4,28,10,2,Semi-Furnished,1,13818021
+Jubilee Hills,1507,3,3,26,21,1,Unfurnished,6,12153929
+Banjara Hills,1439,2,2,0,21,1,Semi-Furnished,10,10930194
+Jubilee Hills,1817,3,3,1,3,1,Furnished,3,17103048
+Kukatpally,1269,2,2,3,17,1,Semi-Furnished,5,9534816
+Madhapur,1176,3,4,19,11,1,Semi-Furnished,7,10788098
+Narsingi,2449,4,4,17,17,1,Furnished,4,17450204
+Kompally,977,2,3,18,10,1,Semi-Furnished,7,6059394
+Miyapur,1858,3,4,5,7,1,Semi-Furnished,6,13114293
+Kukatpally,2331,4,4,20,17,1,Unfurnished,3,16962082
+Secunderabad,1962,3,3,9,23,1,Semi-Furnished,3,12845886
+Narsingi,1625,2,2,28,8,1,Furnished,4,10980173
+Shamshabad,1140,2,2,6,9,1,Unfurnished,2,4945695
+Secunderabad,1688,3,3,13,8,2,Semi-Furnished,1,11493333
+Gachibowli,1881,3,3,5,4,1,Semi-Furnished,3,17791040
+Narsingi,1509,3,3,15,20,2,Semi-Furnished,2,11881651
+Miyapur,1711,3,3,14,3,2,Unfurnished,6,9440085
+Hitech City,1319,2,2,20,11,2,Unfurnished,7,10896820
+LB Nagar,1983,4,5,2,0,0,Semi-Furnished,1,8391720
+Jubilee Hills,1721,3,4,9,5,1,Semi-Furnished,2,14694152
+Kokapet,1532,3,4,6,20,1,Semi-Furnished,2,11765874
+Gachibowli,2129,4,5,0,14,2,Furnished,4,18383151
+Ameerpet,2384,4,4,25,6,1,Semi-Furnished,10,12333388
+Narsingi,1611,3,4,5,20,2,Unfurnished,8,11371681
+Ameerpet,1537,3,3,20,23,0,Furnished,8,9006629
+Ameerpet,960,2,3,2,15,2,Furnished,2,6616362
+Manikonda,2072,4,4,5,1,1,Unfurnished,6,11518215
+Jubilee Hills,1603,3,3,1,4,1,Unfurnished,2,13058954
+Dilsukhnagar,1332,2,3,13,8,2,Semi-Furnished,10,8165298
+Kukatpally,1848,4,5,1,11,1,Semi-Furnished,7,13780516
+Kondapur,1815,3,4,22,1,1,Semi-Furnished,6,13449101
+Dilsukhnagar,1835,3,3,1,23,1,Unfurnished,9,10417450
+LB Nagar,1814,3,3,19,15,1,Unfurnished,5,7794452
+Kokapet,1089,2,2,17,6,0,Semi-Furnished,8,7260892
+Begumpet,1703,3,4,17,5,2,Semi-Furnished,7,11888934
+Dilsukhnagar,2326,4,4,19,10,2,Furnished,1,13220708
+Kukatpally,1154,2,2,3,21,1,Furnished,4,8503150
+Madhapur,2269,4,4,4,14,1,Semi-Furnished,9,20925812
+Ameerpet,2251,4,4,5,10,2,Semi-Furnished,5,11942329
+Kukatpally,1231,2,3,12,0,0,Unfurnished,8,7980530
+Dilsukhnagar,1668,3,3,19,24,0,Semi-Furnished,9,10029512
+Begumpet,1789,3,3,24,11,0,Furnished,9,11714890
+Uppal,1176,2,2,28,19,1,Furnished,3,5497716
+Shamshabad,1387,2,2,19,24,0,Semi-Furnished,5,6476129
+LB Nagar,300,1,2,17,17,2,Semi-Furnished,9,1909320
+Financial District,1155,2,2,27,10,1,Semi-Furnished,3,10062254
+Manikonda,2306,4,5,18,23,1,Furnished,9,14191881
+Financial District,1725,3,3,2,2,1,Semi-Furnished,6,13832601
+Shamshabad,1975,4,4,10,10,1,Furnished,5,9634415
+Kukatpally,1116,2,3,8,20,1,Semi-Furnished,3,8498044
+Madhapur,1737,3,4,20,2,1,Semi-Furnished,6,16068458
+Financial District,1910,3,4,7,12,2,Semi-Furnished,7,17779127
+Narsingi,1808,3,4,24,23,2,Semi-Furnished,3,12811050
+Financial District,2302,4,4,6,5,1,Semi-Furnished,2,20262766
+Financial District,1575,3,4,18,5,1,Semi-Furnished,6,12045517
+Gachibowli,924,2,2,23,20,0,Unfurnished,5,7351326
+Manikonda,1120,2,2,17,12,1,Semi-Furnished,3,6333536
+Kukatpally,1622,3,4,0,12,1,Unfurnished,7,12490875
+Financial District,1068,2,2,2,11,1,Unfurnished,6,10318725
+Kompally,2042,4,4,29,10,1,Furnished,8,11804215
+LB Nagar,1789,3,4,22,21,1,Furnished,2,8894369
+Begumpet,888,2,2,9,2,1,Unfurnished,5,6024864
+Gachibowli,2019,4,4,6,21,1,Furnished,3,18316188
+Secunderabad,2913,5,6,3,3,2,Semi-Furnished,7,21753757
+Kompally,1724,3,3,19,14,1,Semi-Furnished,7,9078993
+LB Nagar,1458,3,4,29,22,1,Semi-Furnished,4,6556265
+Kukatpally,1918,3,3,17,17,2,Semi-Furnished,5,13305234
+Shamshabad,484,1,2,12,16,1,Semi-Furnished,10,2601516
+LB Nagar,1225,2,2,6,21,2,Semi-Furnished,1,5376173
+Kokapet,1318,3,4,26,10,1,Furnished,8,8777299
+Madhapur,1622,3,3,11,19,1,Semi-Furnished,8,12722648
+Dilsukhnagar,989,2,3,24,13,1,Semi-Furnished,5,5444750
+Narsingi,1463,3,3,2,0,1,Semi-Furnished,7,9395666
+Hitech City,1274,3,3,5,4,1,Furnished,1,10111088
+Kondapur,1414,3,3,27,0,2,Unfurnished,2,9864805
+Jubilee Hills,1046,2,2,27,22,2,Unfurnished,10,8880908
+Jubilee Hills,1559,3,4,16,18,1,Semi-Furnished,2,15829246
+Hitech City,2192,4,4,18,7,1,Furnished,9,19805388
+Kokapet,1239,2,3,28,2,2,Semi-Furnished,8,9169425
+Kondapur,1426,3,3,18,15,1,Furnished,4,10456285
+Kokapet,1087,2,2,22,5,1,Unfurnished,5,7396439
+Jubilee Hills,2337,4,4,26,10,1,Furnished,3,19956957
+Financial District,2327,4,4,8,22,1,Unfurnished,4,20923100
+Kukatpally,1678,3,4,7,22,1,Furnished,9,11652704
+Uppal,1766,3,3,19,15,1,Semi-Furnished,5,7358562
+Madhapur,1066,2,3,13,15,1,Semi-Furnished,8,9720497
+Gachibowli,1337,2,2,2,0,2,Semi-Furnished,2,11451628
+Banjara Hills,3012,5,5,24,7,1,Unfurnished,8,25565573
+Hitech City,1588,2,2,10,2,2,Unfurnished,2,13356177
+Uppal,1270,2,2,11,7,0,Unfurnished,8,6494963
+Manikonda,812,2,2,10,12,0,Unfurnished,10,5348408
+Kokapet,1695,3,4,16,10,2,Furnished,2,11269555
+Hitech City,1932,3,3,19,24,1,Semi-Furnished,3,18282013
+Kompally,1714,3,3,10,12,1,Semi-Furnished,5,10813513
+Narsingi,2017,4,4,5,1,1,Furnished,4,14425596
+Ameerpet,1672,3,3,16,15,1,Semi-Furnished,8,9721553
+Financial District,1793,3,4,22,8,2,Furnished,4,16307521
+Secunderabad,1941,3,3,13,9,0,Unfurnished,8,13145886
+Gachibowli,2343,4,5,21,19,1,Furnished,9,22826875
+Manikonda,983,2,3,6,0,1,Unfurnished,5,5611619
+Hitech City,2033,4,4,17,17,0,Semi-Furnished,9,18428980
+Banjara Hills,1532,3,3,7,2,2,Semi-Furnished,1,13691936
+Gachibowli,2304,4,4,17,12,1,Furnished,6,18890673
+Kukatpally,1110,2,3,25,4,1,Semi-Furnished,9,7811970
+Kondapur,1475,3,3,9,11,2,Unfurnished,5,10487848
+Manikonda,1296,2,2,5,17,1,Semi-Furnished,9,7382288
+Uppal,1046,2,2,24,20,1,Semi-Furnished,9,4978834
+Shamshabad,1755,3,3,19,15,1,Semi-Furnished,3,8415664
+Jubilee Hills,1960,3,3,4,17,1,Semi-Furnished,4,17549006
+Shamshabad,1299,2,3,25,15,1,Furnished,6,6352485
+Shamshabad,1676,3,4,23,7,2,Unfurnished,10,7782222
+Madhapur,2326,4,4,29,13,1,Unfurnished,5,20434908
+Ameerpet,1166,2,2,17,6,1,Semi-Furnished,5,6464988
+Madhapur,1017,2,2,14,0,1,Semi-Furnished,7,10401667
+Miyapur,1897,3,4,17,5,1,Unfurnished,9,11004503
+Kukatpally,1713,3,4,27,4,1,Semi-Furnished,7,10585308
+Narsingi,1806,3,3,18,11,2,Semi-Furnished,8,13428072
+Financial District,1557,3,4,28,2,1,Unfurnished,1,12972390
+Madhapur,493,1,1,0,16,1,Unfurnished,5,4808217
+Shamshabad,836,2,2,28,15,2,Semi-Furnished,5,4047902
+Hitech City,1640,3,4,20,1,1,Semi-Furnished,10,14174825
+Jubilee Hills,1089,2,2,15,13,1,Unfurnished,6,9908690
+Dilsukhnagar,2185,4,5,14,12,1,Semi-Furnished,4,12849748
+Secunderabad,2056,4,4,2,16,1,Unfurnished,1,16142780
+Kukatpally,1516,3,4,7,12,1,Semi-Furnished,6,10695978
+Manikonda,1237,2,2,17,17,1,Furnished,3,7699957
+Miyapur,1280,2,3,15,16,1,Semi-Furnished,7,7646797
+Begumpet,1956,4,4,24,13,0,Furnished,7,13941299
+Financial District,2885,5,5,28,20,1,Semi-Furnished,7,25697379
+Secunderabad,1611,3,3,19,4,1,Furnished,8,10590411
+Narsingi,1223,2,2,10,9,1,Unfurnished,8,8481143
+Kompally,1513,3,3,1,9,1,Semi-Furnished,6,9293069
+LB Nagar,2352,4,4,21,24,1,Semi-Furnished,10,10765618
+Kondapur,1244,2,2,5,19,1,Semi-Furnished,4,9153427
+Ameerpet,1182,2,2,2,18,1,Semi-Furnished,2,7342714
+Kompally,1563,3,3,1,18,0,Unfurnished,9,9884738
+Kompally,1712,3,4,9,4,0,Furnished,3,9641536
+Kukatpally,1668,3,4,3,1,1,Semi-Furnished,9,12452412
+Narsingi,1031,2,3,25,14,0,Semi-Furnished,1,6682242
+Hitech City,1583,3,3,18,18,1,Semi-Furnished,3,13441683
+Kondapur,1873,3,3,7,17,0,Unfurnished,3,13578493
+Kukatpally,1042,2,2,10,4,1,Unfurnished,9,7279446
+Manikonda,1823,3,4,22,24,1,Unfurnished,2,10767649
+Dilsukhnagar,2010,3,3,22,0,1,Semi-Furnished,6,10936348
+Secunderabad,1760,3,3,19,16,1,Furnished,4,13049583
+Ameerpet,1285,2,2,28,4,1,Furnished,7,6829521
+Madhapur,1407,3,4,1,24,1,Unfurnished,7,13690991
+Hitech City,1768,3,3,29,11,2,Furnished,10,15208202
+Miyapur,1129,2,2,29,23,1,Furnished,4,6853201
+Miyapur,1472,2,2,4,10,1,Unfurnished,2,8582387
+Miyapur,2364,4,5,26,3,2,Furnished,4,14020759
+Shamshabad,1573,3,4,10,4,2,Semi-Furnished,1,7139478
+Kokapet,1264,2,2,0,19,2,Semi-Furnished,5,9365011
+Manikonda,2741,5,5,20,4,1,Semi-Furnished,8,15786310
+Financial District,1663,3,3,0,18,1,Unfurnished,2,13069851
+Financial District,2474,4,5,6,5,2,Furnished,8,22176821
+Secunderabad,644,1,2,6,17,1,Furnished,10,4567154
+Miyapur,2125,4,5,7,6,0,Unfurnished,8,11061279
+Miyapur,2595,5,5,4,20,1,Semi-Furnished,9,15030629
+Manikonda,1092,2,2,4,22,1,Unfurnished,5,6394512
+Narsingi,1861,3,3,21,20,1,Furnished,5,12631175
+Uppal,1658,3,3,3,2,1,Semi-Furnished,1,7849518
+Kompally,942,2,2,13,5,2,Furnished,1,5302534
+Kompally,1390,2,2,0,0,1,Semi-Furnished,9,7720650
+LB Nagar,1508,2,3,10,24,1,Furnished,3,7076096
+Shamshabad,2063,3,3,17,7,1,Semi-Furnished,9,9425701
+Madhapur,913,2,2,27,24,0,Semi-Furnished,2,8557238
+Kukatpally,1234,2,2,3,22,1,Unfurnished,4,8531670
+Banjara Hills,2196,4,4,6,12,0,Unfurnished,7,19520880
+Kokapet,1047,2,2,8,3,1,Furnished,2,7565690
+Kokapet,2535,4,4,25,6,2,Semi-Furnished,5,16862256
+Madhapur,1082,2,2,14,5,1,Furnished,3,9874720
+Secunderabad,1656,3,3,13,1,2,Semi-Furnished,3,10877310
+Kompally,1662,3,3,24,23,1,Furnished,10,9507334
+Kukatpally,1816,3,3,1,21,1,Semi-Furnished,10,14973834
+LB Nagar,1107,2,2,3,22,1,Semi-Furnished,5,5900018
+Kokapet,1004,2,3,4,13,2,Unfurnished,1,7093515
+Kompally,1711,3,3,20,11,1,Semi-Furnished,1,9155356
+Narsingi,2649,5,6,21,12,1,Furnished,1,17225339
+Ameerpet,2323,4,4,0,7,2,Furnished,10,14951448
+Madhapur,1602,3,4,7,4,1,Furnished,9,12943355
+LB Nagar,947,2,3,6,23,1,Semi-Furnished,4,5041056
+Dilsukhnagar,1163,2,3,14,10,1,Unfurnished,9,7206760
+Madhapur,3018,5,5,3,12,1,Semi-Furnished,6,25801646
+Kokapet,2096,4,4,21,18,1,Semi-Furnished,4,14853980
+Begumpet,1450,3,3,16,11,2,Semi-Furnished,3,10638903
+LB Nagar,2157,4,4,3,24,2,Furnished,1,12067544
+Banjara Hills,936,2,3,7,23,1,Furnished,3,9118753
+Shamshabad,1914,3,3,27,17,2,Semi-Furnished,7,7765586
+Jubilee Hills,1016,2,3,20,12,1,Semi-Furnished,6,8636093
+Madhapur,1538,3,4,18,20,1,Semi-Furnished,4,13228977
+Dilsukhnagar,1472,3,4,20,17,2,Unfurnished,2,7825589
+Secunderabad,2534,4,5,3,1,1,Furnished,4,19455004
+Narsingi,1530,3,4,12,23,1,Semi-Furnished,2,11637200
+LB Nagar,951,2,2,7,13,1,Furnished,7,5065651
+Gachibowli,2127,4,5,16,19,1,Unfurnished,4,19240990
+LB Nagar,1930,3,4,19,10,2,Semi-Furnished,8,8875099
+LB Nagar,1006,2,2,19,0,1,Furnished,5,4208827
+Begumpet,1592,3,3,20,19,1,Furnished,3,10656157
+Manikonda,2876,5,5,0,1,1,Semi-Furnished,1,16179264
+Kukatpally,1594,3,3,2,24,1,Unfurnished,6,11316053
+Gachibowli,2269,4,4,15,15,1,Furnished,4,19994512
+Secunderabad,1959,4,5,1,6,1,Furnished,6,13051816
+Secunderabad,1835,3,4,10,1,1,Semi-Furnished,4,13891840
+Kokapet,994,2,2,4,2,1,Semi-Furnished,7,7293980
+Kompally,1435,3,4,20,22,1,Semi-Furnished,1,8783230
+Kompally,1955,3,3,10,1,1,Unfurnished,5,12133526
+Manikonda,724,2,3,3,15,1,Semi-Furnished,9,5094565
+Dilsukhnagar,1733,3,3,24,5,1,Semi-Furnished,10,9904408
